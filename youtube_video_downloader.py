@@ -1,15 +1,6 @@
-import pafy
+import yt_dlp as youtube_dl
 
 url = "https://www.youtube.com/watch?v=jZN90LaVFXg"
 
-video = pafy.new(url)
-
-streams = video.streams
-for i in streams:
-    print(i)
-
-best = video.getbest()
-  
-print(best.resolution, best.extension)
-  
-best.download()
+with youtube_dl.YoutubeDL() as ydl:
+    result = ydl.download(url)
