@@ -1,0 +1,56 @@
+all = input()
+all = all.split(" ")
+
+# before python 3.10
+while True:
+	try:
+		symble = str(all[0])
+		a = int(all[1])
+		b = int(all[2])
+		if symble == "+":
+			print(a+b)
+
+		elif symble == "-":
+			print(a-b)
+				
+		elif symble == "*":
+			print(a*b)
+				
+		elif symble == "/":
+			print(format((a/b), '.6g'))
+				
+		elif symble == "%":
+			print(a%b)
+		
+		all = input()
+		all = all.split(" ")
+	except:
+		break
+
+# after python 3.10
+# while True:
+# 	try:
+# 		symble = str(all[0])
+# 		a = int(all[1])
+# 		b = int(all[2])
+# 		print(c)
+# 		match symble:
+# 			case "+":
+# 				print(a+b)
+
+# 			case "-":
+# 				print(a-b)
+				
+# 			case "*":
+# 				print(a*b)
+				
+# 			case "/":
+# 				print(format((a/b), '.6g'))
+				
+# 			case "%":
+# 				print(a%b)
+		
+# 		all = input()
+# 		all = all.split(" ")
+# 	except:
+# 		break
