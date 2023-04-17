@@ -1,6 +1,7 @@
 {
     "recommendations": [
         "packdevutils.packdevutils",
-        "qiaojie.binary-viewer"
+        "qiaojie.binary-viewer",
+        "donjayamanne.python-extension-pack"
     ]
 }

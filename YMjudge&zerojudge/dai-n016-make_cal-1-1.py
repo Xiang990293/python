@@ -54,3 +54,27 @@ while True:
 # 		all = all.split(" ")
 # 	except:
 # 		break
+
+inp=input()
+while True:
+	if inp=="EOF":
+		break
+	a=1
+	b=1
+	inp=int(inp)
+	print("1 | 1")
+	print("2 | 1")
+	if inp==2:
+		print("1")
+		print("黃金比例：1")
+	else:
+		for i in range(inp-2):
+			c=a
+			b+=a
+			a=b
+			b=c
+			print(i+3, "|", a)
+		print(a)
+		print("黃金比例："+format((a/b), '.6g'))
+		
+	inp = input()
