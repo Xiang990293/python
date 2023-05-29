@@ -24,7 +24,7 @@ class maze_cell:
 		if self.dir_convert(direction) == -1: raise ValueError("Invalid direction")
 		return self.direction[self.dir_convert(direction)]
 	
-# easygui.integerbox("test","Title",0,upperbound=10**10**10)s
+# easygui.integerbox("test","Title",0,upperbound=10**10**10)
 
 while True:
 	username = easygui.enterbox("請輸入使用者名稱：", "使用者名稱")
