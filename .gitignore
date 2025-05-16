@@ -1,5 +1,9 @@
 #specific files
 
+#specific folders
+learnpy/
+python_practice/
+
 #video files
 *.wav
 *.mp4
