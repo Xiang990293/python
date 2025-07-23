@@ -1,0 +1,6 @@
+{
+  "default_folder": "~/Pictures",
+  "delete_corrupted": true,
+  "hash_threshold": 5,
+  "similarity_threshold": 0.9
+}

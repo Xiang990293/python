@@ -1,0 +1,7 @@
+{
+  "default_folder": "/mnt/sda1/資訊媒體/圖片/待分類",
+  "delete_corrupted": true,
+  "hash_threshold": 5,
+  "similarity_threshold": 0.85,
+  "exact_match_threshold": 0.98
+}

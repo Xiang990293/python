@@ -1,0 +1,6931 @@
+{
+    "root": {
+        "x": -71884,
+        "z": -72218
+    },
+    "Items": [
+        {
+            "item": "橡木樹苗",
+            "x": -71883,
+            "genre": "natural",
+            "z": -72218,
+            "id": "minecraft:oak_sapling"
+        },
+        {
+            "item": "杉木樹苗",
+            "x": -71882,
+            "genre": "natural",
+            "z": -72218,
+            "id": "minecraft:spruce_sapling"
+        },
+        {
+            "item": "樺木樹苗",
+            "x": -71881,
+            "genre": "natural",
+            "z": -72218,
+            "id": "minecraft:birch_sapling"
+        },
+        {
+            "item": "叢林木樹苗",
+            "x": -71880,
+            "genre": "natural",
+            "z": -72218,
+            "id": "minecraft:jungle_sapling"
+        },
+        {
+            "item": "相思木樹苗",
+            "x": -71879,
+            "genre": "natural",
+            "z": -72218,
+            "id": "minecraft:acacia_sapling"
+        },
+        {
+            "item": "黑橡木樹苗",
+            "x": -71878,
+            "genre": "natural",
+            "z": -72218,
+            "id": "minecraft:dark_oak_sapling"
+        },
+        {
+            "item": "紅樹林木胎生苗",
+            "x": -71877,
+            "genre": "natural",
+            "z": -72218,
+            "id": "minecraft:mangrove_propagule"
+        },
+        {
+            "item": "櫻花木樹苗",
+            "x": -71876,
+            "genre": "natural",
+            "z": -72218,
+            "id": "minecraft:cherry_sapling"
+        },
+        {
+            "item": "杜鵑叢",
+            "x": -71875,
+            "genre": "natural",
+            "z": -72218,
+            "id": "minecraft:azalea"
+        },
+        {
+            "item": "開花的杜鵑叢",
+            "x": -71874,
+            "genre": "natural",
+            "z": -72218,
+            "id": "minecraft:flowering_azalea"
+        },
+        {
+            "item": "棕色蘑菇",
+            "x": -71873,
+            "genre": "natural",
+            "z": -72218,
+            "id": "minecraft:brown_mushroom"
+        },
+        {
+            "item": "金胡蘿蔔",
+            "x": -71877,
+            "genre": "edible",
+            "z": -72204,
+            "id": "minecraft:golden_carrot"
+        },
+        {
+            "item": "馬鈴薯",
+            "x": -71877,
+            "genre": "edible",
+            "z": -72203,
+            "id": "minecraft:potato"
+        },
+        {
+            "item": "烤馬鈴薯",
+            "x": -71877,
+            "genre": "edible",
+            "z": -72202,
+            "id": "minecraft:baked_potato"
+        },
+        {
+            "item": "毒馬鈴薯",
+            "x": -71877,
+            "genre": "edible",
+            "z": -72201,
+            "id": "minecraft:poisonous_potato"
+        },
+        {
+            "item": "甜菜根",
+            "x": -71877,
+            "genre": "edible",
+            "z": -72200,
+            "id": "minecraft:beetroot"
+        },
+        {
+            "item": "生牛肉",
+            "x": -71877,
+            "genre": "edible",
+            "z": -72199,
+            "id": "minecraft:beef"
+        },
+        {
+            "item": "牛排",
+            "x": -71877,
+            "genre": "edible",
+            "z": -72198,
+            "id": "minecraft:cooked_beef"
+        },
+        {
+            "item": "生豬肉",
+            "x": -71877,
+            "genre": "edible",
+            "z": -72197,
+            "id": "minecraft:porkchop"
+        },
+        {
+            "item": "烤豬肉",
+            "x": -71877,
+            "genre": "edible",
+            "z": -72196,
+            "id": "minecraft:cooked_porkchop"
+        },
+        {
+            "item": "生羊肉",
+            "x": -71877,
+            "genre": "edible",
+            "z": -72195,
+            "id": "minecraft:mutton"
+        },
+        {
+            "item": "烤羊肉",
+            "x": -71877,
+            "genre": "edible",
+            "z": -72194,
+            "id": "minecraft:cooked_mutton"
+        },
+        {
+            "item": "生雞肉",
+            "x": -71877,
+            "genre": "edible",
+            "z": -72193,
+            "id": "minecraft:chicken"
+        },
+        {
+            "item": "烤雞",
+            "x": -71877,
+            "genre": "edible",
+            "z": -72192,
+            "id": "minecraft:cooked_chicken"
+        },
+        {
+            "item": "生兔肉",
+            "x": -71877,
+            "genre": "edible",
+            "z": -72191,
+            "id": "minecraft:rabbit"
+        },
+        {
+            "item": "烤兔肉",
+            "x": -71877,
+            "genre": "edible",
+            "z": -72190,
+            "id": "minecraft:cooked_rabbit"
+        },
+        {
+            "item": "生鱈魚",
+            "x": -71877,
+            "genre": "edible",
+            "z": -72189,
+            "id": "minecraft:cod"
+        },
+        {
+            "item": "烤鱈魚",
+            "x": -71877,
+            "genre": "edible",
+            "z": -72188,
+            "id": "minecraft:cooked_cod"
+        },
+        {
+            "item": "生鮭魚",
+            "x": -71877,
+            "genre": "edible",
+            "z": -72187,
+            "id": "minecraft:salmon"
+        },
+        {
+            "item": "熱帶魚",
+            "x": -71877,
+            "genre": "edible",
+            "z": -72186,
+            "id": "minecraft:tropical_fish"
+        },
+        {
+            "item": "河豚",
+            "x": -71877,
+            "genre": "edible",
+            "z": -72185,
+            "id": "minecraft:pufferfish"
+        },
+        {
+            "item": "麵包",
+            "x": -71877,
+            "genre": "edible",
+            "z": -72184,
+            "id": "minecraft:bread"
+        },
+        {
+            "item": "餅乾",
+            "x": -71877,
+            "genre": "edible",
+            "z": -72183,
+            "id": "minecraft:cookie"
+        },
+        {
+            "item": "南瓜派",
+            "x": -71877,
+            "genre": "edible",
+            "z": -72182,
+            "id": "minecraft:pumpkin_pie"
+        },
+        {
+            "item": "腐肉",
+            "x": -71877,
+            "genre": "edible",
+            "z": -72181,
+            "id": "minecraft:rotten_flesh"
+        },
+        {
+            "item": "蜘蛛眼",
+            "x": -71877,
+            "genre": "edible",
+            "z": -72180,
+            "id": "minecraft:spider_eye"
+        },
+        {
+            "item": "蜂蜜瓶",
+            "x": -71877,
+            "genre": "edible",
+            "z": -72179,
+            "id": "minecraft:honey_bottle"
+        },
+        {
+            "item": "鐵桶",
+            "x": -71877,
+            "genre": "tools",
+            "z": -72178,
+            "id": "minecraft:bucket"
+        },
+        {
+            "item": "命名牌",
+            "x": -71877,
+            "genre": "tools",
+            "z": -72177,
+            "id": "minecraft:name_tag"
+        },
+        {
+            "item": "拴繩",
+            "x": -71877,
+            "genre": "tools",
+            "z": -72176,
+            "id": "minecraft:lead"
+        },
+        {
+            "item": "羅盤",
+            "x": -71877,
+            "genre": "tools",
+            "z": -72175,
+            "id": "minecraft:compass"
+        },
+        {
+            "item": "回生羅盤",
+            "x": -71877,
+            "genre": "tools",
+            "z": -72174,
+            "id": "minecraft:recovery_compass"
+        },
+        {
+            "item": "時鐘",
+            "x": -71877,
+            "genre": "tools",
+            "z": -72173,
+            "id": "minecraft:clock"
+        },
+        {
+            "item": "空白地圖",
+            "x": -71877,
+            "genre": "tools",
+            "z": -72172,
+            "id": "minecraft:map"
+        },
+        {
+            "item": "煙火 1秒",
+            "x": -71877,
+            "genre": "combat",
+            "z": -72171,
+            "id": "minecraft:firework_rocket"
+        },
+        {
+            "item": "煙火 2秒",
+            "x": -71877,
+            "genre": "combat",
+            "z": -72170,
+            "id": "minecraft:firework_rocket"
+        },
+        {
+            "item": "煙火 3秒",
+            "x": -71877,
+            "genre": "combat",
+            "z": -72169,
+            "id": "minecraft:firework_rocket"
+        },
+        {
+            "item": "箭矢",
+            "x": -71877,
+            "genre": "combat",
+            "z": -72168,
+            "id": "minecraft:arrow"
+        },
+        {
+            "item": "垂釣陶器碎片",
+            "x": -71877,
+            "genre": "ingredients",
+            "z": -72167,
+            "id": "minecraft:angler_pottery_sherd"
+        },
+        {
+            "item": "弓箭陶器碎片",
+            "x": -71877,
+            "genre": "ingredients",
+            "z": -72166,
+            "id": "minecraft:archer_pottery_sherd"
+        },
+        {
+            "item": "人形陶器碎片",
+            "x": -71877,
+            "genre": "ingredients",
+            "z": -72165,
+            "id": "minecraft:arms_up_pottery_sherd"
+        },
+        {
+            "item": "利刃陶器碎片",
+            "x": -71877,
+            "genre": "ingredients",
+            "z": -72164,
+            "id": "minecraft:blade_pottery_sherd"
+        },
+        {
+            "item": "釀造陶器碎片",
+            "x": -71877,
+            "genre": "ingredients",
+            "z": -72163,
+            "id": "minecraft:brewer_pottery_sherd"
+        },
+        {
+            "item": "烈焰陶器碎片",
+            "x": -71877,
+            "genre": "ingredients",
+            "z": -72162,
+            "id": "minecraft:burn_pottery_sherd"
+        },
+        {
+            "item": "危機陶器碎片",
+            "x": -71877,
+            "genre": "ingredients",
+            "z": -72161,
+            "id": "minecraft:danger_pottery_sherd"
+        },
+        {
+            "item": "探險陶器碎片",
+            "x": -71877,
+            "genre": "ingredients",
+            "z": -72160,
+            "id": "minecraft:explorer_pottery_sherd"
+        },
+        {
+            "item": "摯友陶器碎片",
+            "x": -71877,
+            "genre": "ingredients",
+            "z": -72159,
+            "id": "minecraft:friend_pottery_sherd"
+        },
+        {
+            "item": "愛心陶器碎片",
+            "x": -71877,
+            "genre": "ingredients",
+            "z": -72158,
+            "id": "minecraft:heart_pottery_sherd"
+        },
+        {
+            "item": "心碎陶器碎片",
+            "x": -71877,
+            "genre": "ingredients",
+            "z": -72157,
+            "id": "minecraft:heartbreak_pottery_sherd"
+        },
+        {
+            "item": "狼嚎陶器碎片",
+            "x": -71877,
+            "genre": "ingredients",
+            "z": -72156,
+            "id": "minecraft:howl_pottery_sherd"
+        },
+        {
+            "item": "礦工陶器碎片",
+            "x": -71877,
+            "genre": "ingredients",
+            "z": -72155,
+            "id": "minecraft:miner_pottery_sherd"
+        },
+        {
+            "item": "悼惜陶器碎片",
+            "x": -71877,
+            "genre": "ingredients",
+            "z": -72146,
+            "id": "minecraft:mourner_pottery_sherd"
+        },
+        {
+            "item": "富饒陶器碎片",
+            "x": -71877,
+            "genre": "ingredients",
+            "z": -72145,
+            "id": "minecraft:plenty_pottery_sherd"
+        },
+        {
+            "item": "珍寶陶器碎片",
+            "x": -71877,
+            "genre": "ingredients",
+            "z": -72144,
+            "id": "minecraft:prize_pottery_sherd"
+        },
+        {
+            "item": "麥捆陶器碎片",
+            "x": -71877,
+            "genre": "ingredients",
+            "z": -72143,
+            "id": "minecraft:sheaf_pottery_sherd"
+        },
+        {
+            "item": "樹蔭陶器碎片",
+            "x": -71877,
+            "genre": "ingredients",
+            "z": -72142,
+            "id": "minecraft:shelter_pottery_sherd"
+        },
+        {
+            "item": "頭顱陶器碎片",
+            "x": -71877,
+            "genre": "ingredients",
+            "z": -72141,
+            "id": "minecraft:skull_pottery_sherd"
+        },
+        {
+            "item": "嗅探陶器碎片",
+            "x": -71877,
+            "genre": "ingredients",
+            "z": -72140,
+            "id": "minecraft:snort_pottery_sherd"
+        },
+        {
+            "item": "獄髓升級",
+            "x": -71877,
+            "genre": "ingredients",
+            "z": -72139,
+            "id": "minecraft:netherite_upgrade_smithing_template"
+        },
+        {
+            "item": "哨兵盔甲紋樣",
+            "x": -71877,
+            "genre": "ingredients",
+            "z": -72138,
+            "id": "minecraft:sentry_armor_trim_smithing_template"
+        },
+        {
+            "item": "惱鬼盔甲紋樣",
+            "x": -71877,
+            "genre": "ingredients",
+            "z": -72137,
+            "id": "minecraft:vex_armor_trim_smithing_template"
+        },
+        {
+            "item": "荒野盔甲紋樣",
+            "x": -71877,
+            "genre": "ingredients",
+            "z": -72136,
+            "id": "minecraft:wild_armor_trim_smithing_template"
+        },
+        {
+            "item": "海岸盔甲紋樣",
+            "x": -71877,
+            "genre": "ingredients",
+            "z": -72135,
+            "id": "minecraft:coast_armor_trim_smithing_template"
+        },
+        {
+            "item": "沙丘盔甲紋樣",
+            "x": -71877,
+            "genre": "ingredients",
+            "z": -72134,
+            "id": "minecraft:dune_armor_trim_smithing_template"
+        },
+        {
+            "item": "嚮導盔甲紋樣",
+            "x": -71877,
+            "genre": "ingredients",
+            "z": -72133,
+            "id": "minecraft:wayfinder_armor_trim_smithing_template"
+        },
+        {
+            "item": "牧者盔甲紋樣",
+            "x": -71877,
+            "genre": "ingredients",
+            "z": -72132,
+            "id": "minecraft:raiser_armor_trim_smithing_template"
+        },
+        {
+            "item": "工匠盔甲紋樣",
+            "x": -71877,
+            "genre": "ingredients",
+            "z": -72131,
+            "id": "minecraft:shaper_armor_trim_smithing_template"
+        },
+        {
+            "item": "主人盔甲紋樣",
+            "x": -71877,
+            "genre": "ingredients",
+            "z": -72130,
+            "id": "minecraft:host_armor_trim_smithing_template"
+        },
+        {
+            "item": "伏守盔甲紋樣",
+            "x": -71877,
+            "genre": "ingredients",
+            "z": -72129,
+            "id": "minecraft:ward_armor_trim_smithing_template"
+        },
+        {
+            "item": "寂靜盔甲紋樣",
+            "x": -71877,
+            "genre": "ingredients",
+            "z": -72128,
+            "id": "minecraft:silence_armor_trim_smithing_template"
+        },
+        {
+            "item": "潮汐盔甲紋樣",
+            "x": -71877,
+            "genre": "ingredients",
+            "z": -72127,
+            "id": "minecraft:tide_armor_trim_smithing_template"
+        },
+        {
+            "item": "豬鼻盔甲紋樣",
+            "x": -71877,
+            "genre": "ingredients",
+            "z": -72126,
+            "id": "minecraft:snout_armor_trim_smithing_template"
+        },
+        {
+            "item": "肋骨盔甲紋樣",
+            "x": -71877,
+            "genre": "ingredients",
+            "z": -72125,
+            "id": "minecraft:rib_armor_trim_smithing_template"
+        },
+        {
+            "item": "眼眸盔甲紋樣",
+            "x": -71877,
+            "genre": "ingredients",
+            "z": -72124,
+            "id": "minecraft:eye_armor_trim_smithing_template"
+        },
+        {
+            "item": "旋塔盔甲紋樣",
+            "x": -71877,
+            "genre": "ingredients",
+            "z": -72123,
+            "id": "minecraft:spire_armor_trim_smithing_template"
+        },
+        {
+            "item": "經驗瓶",
+            "x": -71877,
+            "genre": "ingredients",
+            "z": -72122,
+            "id": "minecraft:experience_bottle"
+        },
+        {
+            "item": "追跡之箭",
+            "x": -71877,
+            "genre": "combat",
+            "z": -72121,
+            "id": "minecraft:spectral_arrow"
+        },
+        {
+            "item": "紅色蘑菇",
+            "x": -71872,
+            "genre": "natural",
+            "z": -72218,
+            "id": "minecraft:red_mushroom"
+        },
+        {
+            "item": "緋紅蕈菇",
+            "x": -71871,
+            "genre": "natural",
+            "z": -72218,
+            "id": "minecraft:crimson_fungus"
+        },
+        {
+            "item": "扭曲蕈菇",
+            "x": -71870,
+            "genre": "natural",
+            "z": -72218,
+            "id": "minecraft:warped_fungus"
+        },
+        {
+            "item": "矮草",
+            "x": -71869,
+            "genre": "natural",
+            "z": -72218,
+            "id": "minecraft:short_grass"
+        },
+        {
+            "item": "蕨",
+            "x": -71868,
+            "genre": "natural",
+            "z": -72218,
+            "id": "minecraft:fern"
+        },
+        {
+            "item": "枯灌木",
+            "x": -71867,
+            "genre": "natural",
+            "z": -72218,
+            "id": "minecraft:dead_bush"
+        },
+        {
+            "item": "蒲公英",
+            "x": -71866,
+            "genre": "natural",
+            "z": -72218,
+            "id": "minecraft:dandelion"
+        },
+        {
+            "item": "罌粟",
+            "x": -71865,
+            "genre": "natural",
+            "z": -72218,
+            "id": "minecraft:poppy"
+        },
+        {
+            "item": "藍色蝴蝶蘭",
+            "x": -71864,
+            "genre": "natural",
+            "z": -72218,
+            "id": "minecraft:blue_orchid"
+        },
+        {
+            "item": "紫紅球花",
+            "x": -71863,
+            "genre": "natural",
+            "z": -72218,
+            "id": "minecraft:allium"
+        },
+        {
+            "item": "雛草",
+            "x": -71862,
+            "genre": "natural",
+            "z": -72218,
+            "id": "minecraft:azure_bluet"
+        },
+        {
+            "item": "紅色鬱金香",
+            "x": -71861,
+            "genre": "natural",
+            "z": -72218,
+            "id": "minecraft:red_tulip"
+        },
+        {
+            "item": "橙色鬱金香",
+            "x": -71860,
+            "genre": "natural",
+            "z": -72218,
+            "id": "minecraft:orange_tulip"
+        },
+        {
+            "item": "白色鬱金香",
+            "x": -71859,
+            "genre": "natural",
+            "z": -72218,
+            "id": "minecraft:white_tulip"
+        },
+        {
+            "item": "粉紅色鬱金香",
+            "x": -71858,
+            "genre": "natural",
+            "z": -72218,
+            "id": "minecraft:pink_tulip"
+        },
+        {
+            "item": "胡蘿蔔",
+            "x": -71870,
+            "genre": "edible",
+            "z": -72211,
+            "id": "minecraft:carrot"
+        },
+        {
+            "item": "歌萊果",
+            "x": -71869,
+            "genre": "edible",
+            "z": -72211,
+            "id": "minecraft:chorus_fruit"
+        },
+        {
+            "item": "螢光莓",
+            "x": -71868,
+            "genre": "edible",
+            "z": -72211,
+            "id": "minecraft:glow_berries"
+        },
+        {
+            "item": "附魔金蘋果",
+            "x": -71865,
+            "genre": "edible",
+            "z": -72211,
+            "id": "minecraft:enchanted_golden_apple"
+        },
+        {
+            "item": "甜莓",
+            "x": -71867,
+            "genre": "edible",
+            "z": -72211,
+            "id": "minecraft:sweet_berries"
+        },
+        {
+            "item": "西瓜片",
+            "x": -71866,
+            "genre": "edible",
+            "z": -72211,
+            "id": "minecraft:melon_slice"
+        },
+        {
+            "item": "金蘋果",
+            "x": -71864,
+            "genre": "edible",
+            "z": -72211,
+            "id": "minecraft:golden_apple"
+        },
+        {
+            "item": "蘋果",
+            "x": -71863,
+            "genre": "edible",
+            "z": -72211,
+            "id": "minecraft:apple"
+        },
+        {
+            "item": "蜂巢塊",
+            "x": -71862,
+            "genre": "natural",
+            "z": -72211,
+            "id": "minecraft:honeycomb_block"
+        },
+        {
+            "item": "蜂箱",
+            "x": -71861,
+            "genre": "natural",
+            "z": -72211,
+            "id": "minecraft:beehive"
+        },
+        {
+            "item": "南瓜燈",
+            "x": -71859,
+            "genre": "natural",
+            "z": -72211,
+            "id": "minecraft:jack_o_lantern"
+        },
+        {
+            "item": "蜂窩",
+            "x": -71860,
+            "genre": "natural",
+            "z": -72211,
+            "id": "minecraft:bee_nest"
+        },
+        {
+            "item": "雕刻過的南瓜",
+            "x": -71858,
+            "genre": "natural",
+            "z": -72211,
+            "id": "minecraft:carved_pumpkin"
+        },
+        {
+            "item": "南瓜",
+            "x": -71857,
+            "genre": "natural",
+            "z": -72211,
+            "id": "minecraft:pumpkin"
+        },
+        {
+            "item": "雛菊",
+            "x": -71857,
+            "genre": "natural",
+            "z": -72218,
+            "id": "minecraft:oxeye_daisy"
+        },
+        {
+            "item": "閃長岩半磚",
+            "x": -71857,
+            "genre": "building",
+            "z": -72198,
+            "id": "minecraft:diorite_slab"
+        },
+        {
+            "item": "拋光花崗岩半磚",
+            "x": -71858,
+            "genre": "building",
+            "z": -72198,
+            "id": "minecraft:polished_granite_slab"
+        },
+        {
+            "item": "花崗岩半磚",
+            "x": -71859,
+            "genre": "building",
+            "z": -72198,
+            "id": "minecraft:granite_slab"
+        },
+        {
+            "item": "青苔石磚半磚",
+            "x": -71860,
+            "genre": "building",
+            "z": -72198,
+            "id": "minecraft:mossy_stone_brick_slab"
+        },
+        {
+            "item": "石磚半磚",
+            "x": -71861,
+            "genre": "building",
+            "z": -72198,
+            "id": "minecraft:stone_brick_slab"
+        },
+        {
+            "item": "平滑石半磚",
+            "x": -71862,
+            "genre": "building",
+            "z": -72198,
+            "id": "minecraft:smooth_stone_slab"
+        },
+        {
+            "item": "青苔鵝卵石半磚",
+            "x": -71863,
+            "genre": "building",
+            "z": -72198,
+            "id": "minecraft:mossy_cobblestone_slab"
+        },
+        {
+            "item": "鵝卵石半磚",
+            "x": -71864,
+            "genre": "building",
+            "z": -72197,
+            "id": "minecraft:cobblestone_slab"
+        },
+        {
+            "item": "石半磚",
+            "x": -71864,
+            "genre": "building",
+            "z": -72196,
+            "id": "minecraft:stone_slab"
+        },
+        {
+            "item": "上蠟的氧化切製銅階梯",
+            "genre": "building",
+            "x": -71864,
+            "z": -72195,
+            "id": "minecraft:waxed_oxidized_cut_copper_stairs"
+        },
+        {
+            "item": "上蠟的風化切製銅階梯",
+            "genre": "building",
+            "x": -71864,
+            "z": -72194,
+            "id": "minecraft:waxed_weathered_cut_copper_stairs"
+        },
+        {
+            "item": "上蠟的斑駁切製銅階梯",
+            "genre": "building",
+            "x": -71864,
+            "z": -72193,
+            "id": "minecraft:waxed_exposed_cut_copper_stairs"
+        },
+        {
+            "item": "裂紋拋光黑石磚",
+            "x": -71857,
+            "genre": "building",
+            "z": -72177,
+            "id": "minecraft:cracked_polished_blackstone_bricks"
+        },
+        {
+            "item": "終界石",
+            "x": -71857,
+            "genre": "building",
+            "z": -72178,
+            "id": "minecraft:end_stone"
+        },
+        {
+            "item": "終界石磚",
+            "x": -71857,
+            "genre": "building",
+            "z": -72179,
+            "id": "minecraft:end_stone_bricks"
+        },
+        {
+            "item": "紫珀方塊",
+            "x": -71857,
+            "genre": "building",
+            "z": -72180,
+            "id": "minecraft:purpur_block"
+        },
+        {
+            "item": "紫珀柱",
+            "x": -71857,
+            "genre": "building",
+            "z": -72181,
+            "id": "minecraft:purpur_pillar"
+        },
+        {
+            "item": "石英方塊",
+            "x": -71857,
+            "genre": "building",
+            "z": -72182,
+            "id": "minecraft:quartz_block"
+        },
+        {
+            "item": "石英磚",
+            "x": -71857,
+            "genre": "building",
+            "z": -72183,
+            "id": "minecraft:quartz_bricks"
+        },
+        {
+            "item": "浮雕石英方塊",
+            "x": -71857,
+            "genre": "building",
+            "z": -72184,
+            "id": "minecraft:chiseled_quartz_block"
+        },
+        {
+            "item": "上蠟的切製銅階梯",
+            "genre": "building",
+            "x": -71864,
+            "z": -72192,
+            "id": "minecraft:waxed_cut_copper_stairs"
+        },
+        {
+            "item": "氧化的切製銅階梯",
+            "genre": "building",
+            "x": -71864,
+            "z": -72191,
+            "id": "minecraft:waxed_oxidized_cut_copper_stairs"
+        },
+        {
+            "item": "風化的切製銅階梯",
+            "genre": "building",
+            "x": -71864,
+            "z": -72190,
+            "id": "minecraft:waxed_weathered_cut_copper_stairs"
+        },
+        {
+            "item": "斑駁的切製銅階梯",
+            "genre": "building",
+            "x": -71864,
+            "z": -72189,
+            "id": "minecraft:waxed_exposed_cut_copper_stairs"
+        },
+        {
+            "item": "切製銅階梯",
+            "genre": "building",
+            "x": -71864,
+            "z": -72188,
+            "id": "minecraft:waxed_cut_copper_stairs"
+        },
+        {
+            "item": "平滑石英階梯",
+            "x": -71864,
+            "genre": "building",
+            "z": -72187,
+            "id": "minecraft:smooth_quartz_stairs"
+        },
+        {
+            "item": "石英階梯",
+            "x": -71864,
+            "genre": "building",
+            "z": -72186,
+            "id": "minecraft:quartz_stairs"
+        },
+        {
+            "item": "紫珀階梯",
+            "x": -71864,
+            "genre": "building",
+            "z": -72185,
+            "id": "minecraft:purpur_stairs"
+        },
+        {
+            "item": "終界石磚階梯",
+            "x": -71864,
+            "genre": "building",
+            "z": -72184,
+            "id": "minecraft:end_stone_brick_stairs"
+        },
+        {
+            "item": "拋光黑石磚階梯",
+            "x": -71864,
+            "genre": "building",
+            "z": -72183,
+            "id": "minecraft:polished_blackstone_brick_stairs"
+        },
+        {
+            "item": "拋光黑石階梯",
+            "x": -71864,
+            "genre": "building",
+            "z": -72182,
+            "id": "minecraft:polished_blackstone_stairs"
+        },
+        {
+            "item": "黑石階梯",
+            "x": -71864,
+            "genre": "building",
+            "z": -72181,
+            "id": "minecraft:blackstone_stairs"
+        },
+        {
+            "item": "紅地獄磚階梯",
+            "x": -71864,
+            "genre": "building",
+            "z": -72180,
+            "id": "minecraft:red_nether_brick_stairs"
+        },
+        {
+            "item": "地獄磚階梯",
+            "x": -71864,
+            "genre": "building",
+            "z": -72179,
+            "id": "minecraft:nether_brick_stairs"
+        },
+        {
+            "item": "暗海磷石階梯",
+            "x": -71864,
+            "genre": "building",
+            "z": -72178,
+            "id": "minecraft:dark_prismarine_stairs"
+        },
+        {
+            "item": "海磷石磚階梯",
+            "x": -71864,
+            "genre": "building",
+            "z": -72177,
+            "id": "minecraft:prismarine_brick_stairs"
+        },
+        {
+            "item": "暗海磷石",
+            "x": -71857,
+            "genre": "building",
+            "z": -72161,
+            "id": "minecraft:dark_prismarine"
+        },
+        {
+            "item": "地獄石",
+            "genre": "building",
+            "x": -71857,
+            "z": -72162,
+            "id": "minecraft:netherrack"
+        },
+        {
+            "item": "地獄石",
+            "x": -71857,
+            "genre": "building",
+            "z": -72163,
+            "id": "minecraft:netherrack"
+        },
+        {
+            "item": "地獄磚",
+            "x": -71857,
+            "genre": "building",
+            "z": -72164,
+            "id": "minecraft:nether_bricks"
+        },
+        {
+            "item": "裂紋地獄磚",
+            "x": -71857,
+            "genre": "building",
+            "z": -72165,
+            "id": "minecraft:cracked_nether_bricks"
+        },
+        {
+            "item": "浮雕地獄磚",
+            "x": -71857,
+            "genre": "building",
+            "z": -72166,
+            "id": "minecraft:chiseled_nether_bricks"
+        },
+        {
+            "item": "紅地獄磚",
+            "x": -71857,
+            "genre": "building",
+            "z": -72167,
+            "id": "minecraft:red_nether_bricks"
+        },
+        {
+            "item": "玄武岩",
+            "x": -71857,
+            "genre": "building",
+            "z": -72168,
+            "id": "minecraft:basalt"
+        },
+        {
+            "item": "平滑玄武岩",
+            "x": -71857,
+            "genre": "building",
+            "z": -72169,
+            "id": "minecraft:smooth_basalt"
+        },
+        {
+            "item": "拋光玄武岩",
+            "x": -71857,
+            "genre": "building",
+            "z": -72170,
+            "id": "minecraft:polished_basalt"
+        },
+        {
+            "item": "黑石",
+            "x": -71857,
+            "genre": "building",
+            "z": -72171,
+            "id": "minecraft:blackstone"
+        },
+        {
+            "item": "鑲金黑石",
+            "x": -71857,
+            "genre": "building",
+            "z": -72172,
+            "id": "minecraft:gilded_blackstone"
+        },
+        {
+            "item": "拋光黑石",
+            "x": -71857,
+            "genre": "building",
+            "z": -72173,
+            "id": "minecraft:polished_blackstone"
+        },
+        {
+            "item": "浮雕拋光黑石",
+            "x": -71857,
+            "genre": "building",
+            "z": -72174,
+            "id": "minecraft:chiseled_polished_blackstone"
+        },
+        {
+            "item": "拋光黑石磚",
+            "x": -71857,
+            "genre": "building",
+            "z": -72175,
+            "id": "minecraft:polished_blackstone_bricks"
+        },
+        {
+            "item": "拋光黑石磚",
+            "genre": "building",
+            "x": -71857,
+            "z": -72176,
+            "id": "minecraft:polished_blackstone_bricks"
+        },
+        {
+            "item": "海磷石階梯",
+            "x": -71864,
+            "genre": "building",
+            "z": -72176,
+            "id": "minecraft:prismarine_stairs"
+        },
+        {
+            "item": "平滑紅砂岩階梯",
+            "x": -71864,
+            "genre": "building",
+            "z": -72175,
+            "id": "minecraft:smooth_red_sandstone_stairs"
+        },
+        {
+            "item": "紅砂岩階梯",
+            "x": -71864,
+            "genre": "building",
+            "z": -72174,
+            "id": "minecraft:red_sandstone_stairs"
+        },
+        {
+            "item": "平滑砂岩階梯",
+            "x": -71864,
+            "genre": "building",
+            "z": -72173,
+            "id": "minecraft:smooth_sandstone_stairs"
+        },
+        {
+            "item": "砂岩階梯",
+            "x": -71864,
+            "genre": "building",
+            "z": -72172,
+            "id": "minecraft:sandstone_stairs"
+        },
+        {
+            "item": "泥磚階梯",
+            "x": -71864,
+            "genre": "building",
+            "z": -72171,
+            "id": "minecraft:mud_brick_stairs"
+        },
+        {
+            "item": "紅磚階梯",
+            "x": -71864,
+            "genre": "building",
+            "z": -72170,
+            "id": "minecraft:brick_stairs"
+        },
+        {
+            "item": "深板岩磚瓦階梯",
+            "x": -71864,
+            "genre": "building",
+            "z": -72169,
+            "id": "minecraft:deepslate_tile_stairs"
+        },
+        {
+            "item": "深板岩磚階梯",
+            "x": -71864,
+            "genre": "building",
+            "z": -72168,
+            "id": "minecraft:deepslate_brick_stairs"
+        },
+        {
+            "item": "拋光深板岩階梯",
+            "x": -71864,
+            "genre": "building",
+            "z": -72167,
+            "id": "minecraft:polished_deepslate_stairs"
+        },
+        {
+            "item": "碎深板岩階梯",
+            "x": -71864,
+            "genre": "building",
+            "z": -72166,
+            "id": "minecraft:cobbled_deepslate_stairs"
+        },
+        {
+            "item": "拋光安山岩階梯",
+            "x": -71864,
+            "genre": "building",
+            "z": -72165,
+            "id": "minecraft:polished_andesite_stairs"
+        },
+        {
+            "item": "安山岩階梯",
+            "x": -71864,
+            "genre": "building",
+            "z": -72164,
+            "id": "minecraft:andesite_stairs"
+        },
+        {
+            "item": "拋光閃長岩階梯",
+            "x": -71864,
+            "genre": "building",
+            "z": -72163,
+            "id": "minecraft:polished_diorite_stairs"
+        },
+        {
+            "item": "閃長岩階梯",
+            "x": -71864,
+            "genre": "building",
+            "z": -72162,
+            "id": "minecraft:diorite_stairs"
+        },
+        {
+            "item": "拋光花崗岩階梯",
+            "x": -71864,
+            "genre": "building",
+            "z": -72161,
+            "id": "minecraft:polished_granite_stairs"
+        },
+        {
+            "item": "紅沙",
+            "x": -71857,
+            "genre": "building",
+            "z": -72145,
+            "id": "minecraft:red_sand"
+        },
+        {
+            "item": "紅砂岩",
+            "x": -71857,
+            "genre": "building",
+            "z": -72146,
+            "id": "minecraft:red_sandstone"
+        },
+        {
+            "item": "浮雕紅砂岩",
+            "x": -71857,
+            "genre": "building",
+            "z": -72155,
+            "id": "minecraft:chiseled_red_sandstone"
+        },
+        {
+            "item": "平滑紅砂岩",
+            "x": -71857,
+            "genre": "building",
+            "z": -72156,
+            "id": "minecraft:smooth_red_sandstone"
+        },
+        {
+            "item": "切製紅砂岩",
+            "x": -71857,
+            "genre": "building",
+            "z": -72157,
+            "id": "minecraft:cut_red_sandstone"
+        },
+        {
+            "item": "海燈籠",
+            "x": -71857,
+            "genre": "building",
+            "z": -72158,
+            "id": "minecraft:sea_lantern"
+        },
+        {
+            "item": "海磷石",
+            "x": -71857,
+            "genre": "building",
+            "z": -72159,
+            "id": "minecraft:prismarine"
+        },
+        {
+            "item": "海磷石磚",
+            "x": -71857,
+            "genre": "building",
+            "z": -72160,
+            "id": "minecraft:prismarine_bricks"
+        },
+        {
+            "item": "花崗岩階梯",
+            "x": -71864,
+            "genre": "building",
+            "z": -72160,
+            "id": "minecraft:granite_stairs"
+        },
+        {
+            "item": "青苔石磚階梯",
+            "x": -71864,
+            "genre": "building",
+            "z": -72159,
+            "id": "minecraft:mossy_stone_brick_stairs"
+        },
+        {
+            "item": "石磚階梯",
+            "x": -71864,
+            "genre": "building",
+            "z": -72158,
+            "id": "minecraft:stone_brick_stairs"
+        },
+        {
+            "item": "青苔鵝卵石階梯",
+            "x": -71864,
+            "genre": "building",
+            "z": -72157,
+            "id": "minecraft:mossy_cobblestone_stairs"
+        },
+        {
+            "item": "鵝卵石階梯",
+            "x": -71864,
+            "genre": "building",
+            "z": -72156,
+            "id": "minecraft:cobblestone_stairs"
+        },
+        {
+            "item": "石頭階梯",
+            "x": -71864,
+            "genre": "building",
+            "z": -72155,
+            "id": "minecraft:stone_stairs"
+        },
+        {
+            "item": "拋光深板岩",
+            "x": -71857,
+            "genre": "building",
+            "z": -72129,
+            "id": "minecraft:polished_deepslate"
+        },
+        {
+            "item": "深板岩磚",
+            "genre": "building",
+            "x": -71857,
+            "z": -72130,
+            "id": "minecraft:deepslate_bricks"
+        },
+        {
+            "item": "深板岩磚",
+            "x": -71857,
+            "genre": "building",
+            "z": -72131,
+            "id": "minecraft:deepslate_bricks"
+        },
+        {
+            "item": "裂紋深板岩磚",
+            "x": -71857,
+            "genre": "building",
+            "z": -72132,
+            "id": "minecraft:cracked_deepslate_bricks"
+        },
+        {
+            "item": "深板岩磚瓦",
+            "x": -71857,
+            "genre": "building",
+            "z": -72133,
+            "id": "minecraft:deepslate_tiles"
+        },
+        {
+            "item": "裂紋深板岩磚瓦",
+            "x": -71857,
+            "genre": "building",
+            "z": -72134,
+            "id": "minecraft:cracked_deepslate_tiles"
+        },
+        {
+            "item": "浮雕深板岩",
+            "x": -71857,
+            "genre": "building",
+            "z": -72135,
+            "id": "minecraft:chiseled_deepslate"
+        },
+        {
+            "item": "紅磚",
+            "x": -71857,
+            "genre": "building",
+            "z": -72136,
+            "id": "minecraft:bricks"
+        },
+        {
+            "item": "泥坯",
+            "x": -71857,
+            "genre": "building",
+            "z": -72137,
+            "id": "minecraft:packed_mud"
+        },
+        {
+            "item": "泥磚",
+            "x": -71857,
+            "genre": "building",
+            "z": -72138,
+            "id": "minecraft:mud_bricks"
+        },
+        {
+            "item": "沙",
+            "genre": "building",
+            "x": -71857,
+            "z": -72139,
+            "id": "minecraft:sand"
+        },
+        {
+            "item": "沙",
+            "x": -71857,
+            "genre": "building",
+            "z": -72140,
+            "id": "minecraft:sand"
+        },
+        {
+            "item": "砂岩",
+            "x": -71857,
+            "genre": "building",
+            "z": -72141,
+            "id": "minecraft:sandstone"
+        },
+        {
+            "item": "浮雕砂岩",
+            "x": -71857,
+            "genre": "building",
+            "z": -72142,
+            "id": "minecraft:chiseled_sandstone"
+        },
+        {
+            "item": "平滑砂岩",
+            "x": -71857,
+            "genre": "building",
+            "z": -72143,
+            "id": "minecraft:smooth_sandstone"
+        },
+        {
+            "item": "切製砂岩",
+            "x": -71857,
+            "genre": "building",
+            "z": -72144,
+            "id": "minecraft:cut_sandstone"
+        },
+        {
+            "item": "地獄石英礦",
+            "x": -71864,
+            "genre": "ingredients",
+            "z": -72144,
+            "id": "minecraft:nether_quartz_ore"
+        },
+        {
+            "item": "地獄金礦",
+            "x": -71864,
+            "genre": "ingredients",
+            "z": -72143,
+            "id": "minecraft:nether_gold_ore"
+        },
+        {
+            "item": "深板岩鑽石礦",
+            "x": -71864,
+            "genre": "ingredients",
+            "z": -72142,
+            "id": "minecraft:deepslate_diamond_ore"
+        },
+        {
+            "item": "鑽石礦",
+            "x": -71864,
+            "genre": "ingredients",
+            "z": -72141,
+            "id": "minecraft:diamond_ore"
+        },
+        {
+            "item": "深板岩青金石礦",
+            "x": -71864,
+            "genre": "ingredients",
+            "z": -72140,
+            "id": "minecraft:deepslate_lapis_ore"
+        },
+        {
+            "item": "青金石礦",
+            "x": -71864,
+            "genre": "ingredients",
+            "z": -72139,
+            "id": "minecraft:lapis_ore"
+        },
+        {
+            "item": "深板岩綠寶石礦",
+            "x": -71864,
+            "genre": "ingredients",
+            "z": -72138,
+            "id": "minecraft:deepslate_emerald_ore"
+        },
+        {
+            "item": "綠寶石礦",
+            "x": -71864,
+            "genre": "ingredients",
+            "z": -72137,
+            "id": "minecraft:emerald_ore"
+        },
+        {
+            "item": "深板岩紅石礦",
+            "x": -71864,
+            "genre": "ingredients",
+            "z": -72136,
+            "id": "minecraft:deepslate_redstone_ore"
+        },
+        {
+            "item": "紅石礦",
+            "x": -71864,
+            "genre": "ingredients",
+            "z": -72135,
+            "id": "minecraft:redstone_ore"
+        },
+        {
+            "item": "深板岩金礦",
+            "x": -71864,
+            "genre": "ingredients",
+            "z": -72134,
+            "id": "minecraft:deepslate_gold_ore"
+        },
+        {
+            "item": "金礦",
+            "x": -71864,
+            "genre": "ingredients",
+            "z": -72133,
+            "id": "minecraft:gold_ore"
+        },
+        {
+            "item": "深板岩銅礦",
+            "x": -71864,
+            "genre": "ingredients",
+            "z": -72132,
+            "id": "minecraft:deepslate_copper_ore"
+        },
+        {
+            "item": "銅礦",
+            "x": -71864,
+            "genre": "ingredients",
+            "z": -72131,
+            "id": "minecraft:copper_ore"
+        },
+        {
+            "item": "深板岩鐵礦",
+            "x": -71864,
+            "genre": "ingredients",
+            "z": -72130,
+            "id": "minecraft:deepslate_iron_ore"
+        },
+        {
+            "item": "鐵礦",
+            "x": -71864,
+            "genre": "ingredients",
+            "z": -72129,
+            "id": "minecraft:iron_ore"
+        },
+        {
+            "item": "鐵軌",
+            "x": -71864,
+            "genre": "redstone",
+            "z": -72120,
+            "id": "minecraft:rail"
+        },
+        {
+            "item": "動力鐵軌",
+            "x": -71864,
+            "genre": "redstone",
+            "z": -72121,
+            "id": "minecraft:powered_rail"
+        },
+        {
+            "item": "感測鐵軌",
+            "x": -71864,
+            "genre": "redstone",
+            "z": -72122,
+            "id": "minecraft:detector_rail"
+        },
+        {
+            "item": "觸發鐵軌",
+            "x": -71864,
+            "genre": "redstone",
+            "z": -72123,
+            "id": "minecraft:activator_rail"
+        },
+        {
+            "item": "TNT",
+            "x": -71864,
+            "genre": "redstone",
+            "z": -72124,
+            "id": "minecraft:tnt"
+        },
+        {
+            "item": "花崗岩",
+            "genre": "building",
+            "x": -71857,
+            "z": -72117,
+            "id": "minecraft:granite"
+        },
+        {
+            "item": "花崗岩",
+            "x": -71857,
+            "genre": "building",
+            "z": -72118,
+            "id": "minecraft:granite"
+        },
+        {
+            "item": "拋光花崗岩",
+            "x": -71857,
+            "genre": "building",
+            "z": -72119,
+            "id": "minecraft:polished_granite"
+        },
+        {
+            "item": "閃長岩",
+            "genre": "building",
+            "x": -71857,
+            "z": -72120,
+            "id": "minecraft:diorite"
+        },
+        {
+            "item": "閃長岩",
+            "x": -71857,
+            "genre": "building",
+            "z": -72121,
+            "id": "minecraft:diorite"
+        },
+        {
+            "item": "拋光閃長岩",
+            "x": -71857,
+            "genre": "building",
+            "z": -72122,
+            "id": "minecraft:polished_diorite"
+        },
+        {
+            "item": "安山岩",
+            "genre": "building",
+            "x": -71857,
+            "z": -72123,
+            "id": "minecraft:andesite"
+        },
+        {
+            "item": "安山岩",
+            "x": -71857,
+            "genre": "building",
+            "z": -72124,
+            "id": "minecraft:andesite"
+        },
+        {
+            "item": "拋光安山岩",
+            "x": -71857,
+            "genre": "building",
+            "z": -72125,
+            "id": "minecraft:polished_andesite"
+        },
+        {
+            "item": "深板岩",
+            "x": -71857,
+            "genre": "building",
+            "z": -72126,
+            "id": "minecraft:deepslate"
+        },
+        {
+            "item": "深板岩碎石",
+            "genre": "building",
+            "x": -71857,
+            "z": -72127,
+            "id": "minecraft:cobbled_deepslate"
+        },
+        {
+            "item": "深板岩碎石",
+            "x": -71857,
+            "genre": "building",
+            "z": -72128,
+            "id": "minecraft:cobbled_deepslate"
+        },
+        {
+            "item": "深板岩煤礦",
+            "x": -71864,
+            "genre": "ingredients",
+            "z": -72128,
+            "id": "minecraft:deepslate_coal_ore"
+        },
+        {
+            "item": "煤礦",
+            "x": -71864,
+            "genre": "ingredients",
+            "z": -72127,
+            "id": "minecraft:coal_ore"
+        },
+        {
+            "item": "紅石燈",
+            "x": -71864,
+            "genre": "redstone",
+            "z": -72125,
+            "id": "minecraft:redstone_lamp"
+        },
+        {
+            "item": "音階盒",
+            "x": -71864,
+            "genre": "redstone",
+            "z": -72119,
+            "id": "minecraft:note_block"
+        },
+        {
+            "item": "偵測器",
+            "x": -71864,
+            "genre": "redstone",
+            "z": -72118,
+            "id": "minecraft:observer"
+        },
+        {
+            "item": "唱片機",
+            "x": -71864,
+            "genre": "redstone",
+            "z": -72117,
+            "id": "minecraft:jukebox"
+        },
+        {
+            "item": "陷阱儲物箱",
+            "x": -71864,
+            "genre": "redstone",
+            "z": -72116,
+            "id": "minecraft:trapped_chest"
+        },
+        {
+            "item": "漏斗",
+            "x": -71864,
+            "genre": "redstone",
+            "z": -72115,
+            "id": "minecraft:hopper"
+        },
+        {
+            "item": "投擲器",
+            "x": -71864,
+            "genre": "redstone",
+            "z": -72114,
+            "id": "minecraft:dropper"
+        },
+        {
+            "item": "發射器",
+            "x": -71864,
+            "genre": "redstone",
+            "z": -72113,
+            "id": "minecraft:dispenser"
+        },
+        {
+            "item": "盔甲座",
+            "x": -71864,
+            "genre": "redstone",
+            "z": -72126,
+            "id": "minecraft:armor_stand"
+        },
+        {
+            "item": "紅石粉",
+            "x": -71858,
+            "genre": "redstone",
+            "z": -72103,
+            "id": "minecraft:redstone"
+        },
+        {
+            "item": "紅石中繼器",
+            "x": -71860,
+            "genre": "redstone",
+            "z": -72103,
+            "id": "minecraft:repeater"
+        },
+        {
+            "item": "紅石比較器",
+            "x": -71861,
+            "genre": "redstone",
+            "z": -72103,
+            "id": "minecraft:comparator"
+        },
+        {
+            "item": "史萊姆方塊",
+            "x": -71864,
+            "genre": "redstone",
+            "z": -72112,
+            "id": "minecraft:slime_block"
+        },
+        {
+            "item": "蜂蜜塊",
+            "x": -71864,
+            "genre": "redstone",
+            "z": -72111,
+            "id": "minecraft:honey_block"
+        },
+        {
+            "item": "黏性活塞",
+            "x": -71864,
+            "genre": "redstone",
+            "z": -72110,
+            "id": "minecraft:sticky_piston"
+        },
+        {
+            "item": "活塞",
+            "x": -71864,
+            "genre": "redstone",
+            "z": -72109,
+            "id": "minecraft:piston"
+        },
+        {
+            "item": "絆線鉤",
+            "x": -71864,
+            "genre": "redstone",
+            "z": -72108,
+            "id": "minecraft:tripwire_hook"
+        },
+        {
+            "item": "日光感測器",
+            "x": -71864,
+            "genre": "redstone",
+            "z": -72107,
+            "id": "minecraft:daylight_detector"
+        },
+        {
+            "item": "伏聆嘯口",
+            "genre": "redstone",
+            "x": -71864,
+            "z": -72106,
+            "id": "minecraft:sculk_shrieker"
+        },
+        {
+            "item": "校準伏聆振測器",
+            "x": -71864,
+            "genre": "redstone",
+            "z": -72105,
+            "id": "minecraft:calibrated_sculk_sensor"
+        },
+        {
+            "item": "伏聆振測器",
+            "x": -71864,
+            "genre": "redstone",
+            "z": -72104,
+            "id": "minecraft:sculk_sensor"
+        },
+        {
+            "item": "控制桿",
+            "x": -71863,
+            "genre": "redstone",
+            "z": -72103,
+            "id": "minecraft:lever"
+        },
+        {
+            "item": "標靶",
+            "x": -71862,
+            "genre": "redstone",
+            "z": -72103,
+            "id": "minecraft:target"
+        },
+        {
+            "item": "紅石方塊",
+            "x": -71857,
+            "genre": "redstone",
+            "z": -72103,
+            "id": "minecraft:redstone_block"
+        },
+        {
+            "item": "紅石火把",
+            "x": -71859,
+            "genre": "redstone",
+            "z": -72103,
+            "id": "minecraft:redstone_torch"
+        },
+        {
+            "item": "鈴蘭",
+            "x": -71855,
+            "genre": "natural",
+            "z": -72218,
+            "id": "minecraft:lily_of_the_valley"
+        },
+        {
+            "item": "火把花",
+            "x": -71854,
+            "genre": "natural",
+            "z": -72218,
+            "id": "minecraft:torchflower"
+        },
+        {
+            "item": "凋零玫瑰",
+            "x": -71853,
+            "genre": "natural",
+            "z": -72218,
+            "id": "minecraft:wither_rose"
+        },
+        {
+            "item": "粉瓣花",
+            "x": -71852,
+            "genre": "natural",
+            "z": -72218,
+            "id": "minecraft:pink_petals"
+        },
+        {
+            "item": "孢子花",
+            "x": -71851,
+            "genre": "natural",
+            "z": -72218,
+            "id": "minecraft:spore_blossom"
+        },
+        {
+            "item": "緋紅蕈根",
+            "x": -71850,
+            "genre": "natural",
+            "z": -72218,
+            "id": "minecraft:crimson_roots"
+        },
+        {
+            "item": "扭曲蕈根",
+            "x": -71849,
+            "genre": "natural",
+            "z": -72218,
+            "id": "minecraft:warped_roots"
+        },
+        {
+            "item": "地獄芽",
+            "x": -71848,
+            "genre": "natural",
+            "z": -72218,
+            "id": "minecraft:nether_sprouts"
+        },
+        {
+            "item": "垂泣藤",
+            "x": -71847,
+            "genre": "natural",
+            "z": -72218,
+            "id": "minecraft:weeping_vines"
+        },
+        {
+            "item": "扭曲藤",
+            "x": -71846,
+            "genre": "natural",
+            "z": -72218,
+            "id": "minecraft:twisting_vines"
+        },
+        {
+            "item": "藤蔓",
+            "x": -71845,
+            "genre": "natural",
+            "z": -72218,
+            "id": "minecraft:vine"
+        },
+        {
+            "item": "芒草",
+            "x": -71844,
+            "genre": "natural",
+            "z": -72218,
+            "id": "minecraft:tall_grass"
+        },
+        {
+            "item": "大型蕨類",
+            "x": -71843,
+            "genre": "natural",
+            "z": -72218,
+            "id": "minecraft:large_fern"
+        },
+        {
+            "item": "向日葵",
+            "x": -71842,
+            "genre": "natural",
+            "z": -72218,
+            "id": "minecraft:sunflower"
+        },
+        {
+            "item": "紫丁香",
+            "x": -71841,
+            "genre": "natural",
+            "z": -72218,
+            "id": "minecraft:lilac"
+        },
+        {
+            "item": "西瓜",
+            "x": -71856,
+            "genre": "natural",
+            "z": -72211,
+            "id": "minecraft:melon"
+        },
+        {
+            "item": "乾草捆",
+            "x": -71855,
+            "genre": "natural",
+            "z": -72211,
+            "id": "minecraft:hay_block"
+        },
+        {
+            "item": "小麥",
+            "x": -71854,
+            "genre": "natural",
+            "z": -72211,
+            "id": "minecraft:wheat"
+        },
+        {
+            "item": "海帶乾塊",
+            "x": -71853,
+            "genre": "natural",
+            "z": -72211,
+            "id": "minecraft:dried_kelp_block"
+        },
+        {
+            "item": "海帶乾",
+            "x": -71852,
+            "genre": "natural",
+            "z": -72211,
+            "id": "minecraft:dried_kelp"
+        },
+        {
+            "item": "海帶",
+            "x": -71851,
+            "genre": "natural",
+            "z": -72211,
+            "id": "minecraft:kelp"
+        },
+        {
+            "item": "死亡的扇狀角珊瑚",
+            "x": -71850,
+            "genre": "natural",
+            "z": -72211,
+            "id": "minecraft:dead_horn_coral_fan"
+        },
+        {
+            "item": "死亡的扇狀火珊瑚",
+            "genre": "natural",
+            "x": -71849,
+            "z": -72211,
+            "id": "minecraft:dead_fire_coral_fan"
+        },
+        {
+            "item": "死亡的扇狀氣泡珊瑚",
+            "genre": "natural",
+            "x": -71848,
+            "z": -72211,
+            "id": "minecraft:dead_fire_coral_fan"
+        },
+        {
+            "item": "死亡的扇狀腦珊瑚",
+            "x": -71847,
+            "genre": "natural",
+            "z": -72211,
+            "id": "minecraft:dead_brain_coral_fan"
+        },
+        {
+            "item": "死亡的扇狀管珊瑚",
+            "x": -71846,
+            "genre": "natural",
+            "z": -72211,
+            "id": "minecraft:dead_tube_coral_fan"
+        },
+        {
+            "item": "扇狀角珊瑚",
+            "x": -71845,
+            "genre": "natural",
+            "z": -72211,
+            "id": "minecraft:horn_coral_fan"
+        },
+        {
+            "item": "扇狀火珊瑚",
+            "x": -71844,
+            "genre": "natural",
+            "z": -72211,
+            "id": "minecraft:fire_coral_fan"
+        },
+        {
+            "item": "扇狀氣泡珊瑚",
+            "x": -71843,
+            "genre": "natural",
+            "z": -72211,
+            "id": "minecraft:bubble_coral_fan"
+        },
+        {
+            "item": "扇狀腦珊瑚",
+            "x": -71842,
+            "genre": "natural",
+            "z": -72211,
+            "id": "minecraft:brain_coral_fan"
+        },
+        {
+            "item": "扇狀管珊瑚",
+            "x": -71841,
+            "genre": "natural",
+            "z": -72211,
+            "id": "minecraft:tube_coral_fan"
+        },
+        {
+            "item": "矢車菊",
+            "x": -71856,
+            "genre": "natural",
+            "z": -72218,
+            "id": "minecraft:cornflower"
+        },
+        {
+            "item": "海磷石半磚",
+            "x": -71841,
+            "genre": "building",
+            "z": -72198,
+            "id": "minecraft:prismarine_slab"
+        },
+        {
+            "item": "切製紅砂岩半磚",
+            "x": -71842,
+            "genre": "building",
+            "z": -72198,
+            "id": "minecraft:cut_red_sandstone_slab"
+        },
+        {
+            "item": "平滑紅砂岩半磚",
+            "x": -71843,
+            "genre": "building",
+            "z": -72198,
+            "id": "minecraft:smooth_red_sandstone_slab"
+        },
+        {
+            "item": "紅砂岩半磚",
+            "x": -71844,
+            "genre": "building",
+            "z": -72198,
+            "id": "minecraft:red_sandstone_slab"
+        },
+        {
+            "item": "切製砂岩半磚",
+            "x": -71845,
+            "genre": "building",
+            "z": -72198,
+            "id": "minecraft:cut_sandstone_slab"
+        },
+        {
+            "item": "平滑砂岩半磚",
+            "x": -71846,
+            "genre": "building",
+            "z": -72198,
+            "id": "minecraft:smooth_sandstone_slab"
+        },
+        {
+            "item": "砂岩半磚",
+            "x": -71847,
+            "genre": "building",
+            "z": -72198,
+            "id": "minecraft:sandstone_slab"
+        },
+        {
+            "item": "泥磚半磚",
+            "x": -71848,
+            "genre": "building",
+            "z": -72198,
+            "id": "minecraft:mud_brick_slab"
+        },
+        {
+            "item": "紅磚半磚",
+            "x": -71849,
+            "genre": "building",
+            "z": -72198,
+            "id": "minecraft:brick_slab"
+        },
+        {
+            "item": "深板岩磚瓦半磚",
+            "x": -71850,
+            "genre": "building",
+            "z": -72198,
+            "id": "minecraft:deepslate_tile_slab"
+        },
+        {
+            "item": "深板岩磚半磚",
+            "x": -71851,
+            "genre": "building",
+            "z": -72198,
+            "id": "minecraft:deepslate_brick_slab"
+        },
+        {
+            "item": "拋光深板岩半磚",
+            "x": -71852,
+            "genre": "building",
+            "z": -72198,
+            "id": "minecraft:polished_deepslate_slab"
+        },
+        {
+            "item": "碎深板岩半磚",
+            "x": -71853,
+            "genre": "building",
+            "z": -72198,
+            "id": "minecraft:cobbled_deepslate_slab"
+        },
+        {
+            "item": "拋光安山岩半磚",
+            "x": -71854,
+            "genre": "building",
+            "z": -72198,
+            "id": "minecraft:polished_andesite_slab"
+        },
+        {
+            "item": "安山岩半磚",
+            "x": -71855,
+            "genre": "building",
+            "z": -72198,
+            "id": "minecraft:andesite_slab"
+        },
+        {
+            "item": "拋光閃長岩半磚",
+            "x": -71856,
+            "genre": "building",
+            "z": -72198,
+            "id": "minecraft:polished_diorite_slab"
+        },
+        {
+            "item": "石英柱",
+            "x": -71850,
+            "genre": "building",
+            "z": -72191,
+            "id": "minecraft:quartz_pillar"
+        },
+        {
+            "item": "平滑石英方塊",
+            "x": -71849,
+            "genre": "building",
+            "z": -72191,
+            "id": "minecraft:smooth_quartz"
+        },
+        {
+            "item": "銅方塊",
+            "genre": "building",
+            "x": -71848,
+            "z": -72191,
+            "id": "minecraft:waxed_copper_block"
+        },
+        {
+            "item": "切製的銅方塊",
+            "genre": "building",
+            "x": -71847,
+            "z": -72191,
+            "id": "minecraft:waxed_cut_copper"
+        },
+        {
+            "item": "斑駁的銅方塊",
+            "genre": "building",
+            "x": -71846,
+            "z": -72191,
+            "id": "minecraft:waxed_exposed_copper"
+        },
+        {
+            "item": "斑駁的切製銅方塊",
+            "genre": "building",
+            "x": -71845,
+            "z": -72191,
+            "id": "minecraft:waxed_exposed_cut_copper"
+        },
+        {
+            "item": "風化的銅方塊",
+            "genre": "building",
+            "x": -71844,
+            "z": -72191,
+            "id": "minecraft:waxed_weathered_copper"
+        },
+        {
+            "item": "風化的切製銅方塊",
+            "genre": "building",
+            "x": -71843,
+            "z": -72191,
+            "id": "minecraft:waxed_weathered_cut_copper"
+        },
+        {
+            "item": "氧化的銅方塊",
+            "genre": "building",
+            "x": -71842,
+            "z": -72191,
+            "id": "minecraft:waxed_oxidized_copper"
+        },
+        {
+            "item": "氧化的切製銅方塊",
+            "genre": "building",
+            "x": -71841,
+            "z": -72191,
+            "id": "minecraft:waxed_oxidized_cut_copper"
+        },
+        {
+            "item": "橡木按鈕",
+            "x": -71842,
+            "genre": "building",
+            "z": -72178,
+            "id": "minecraft:oak_button"
+        },
+        {
+            "item": "杉木按鈕",
+            "x": -71841,
+            "genre": "building",
+            "z": -72178,
+            "id": "minecraft:spruce_button"
+        },
+        {
+            "item": "石製壓力板",
+            "x": -71844,
+            "genre": "building",
+            "z": -72177,
+            "id": "minecraft:stone_pressure_plate"
+        },
+        {
+            "item": "拋光黑石壓力板",
+            "x": -71843,
+            "genre": "building",
+            "z": -72178,
+            "id": "minecraft:polished_blackstone_pressure_plate"
+        },
+        {
+            "item": "扭曲蕈木地板門",
+            "x": -71844,
+            "genre": "building",
+            "z": -72161,
+            "id": "minecraft:warped_trapdoor"
+        },
+        {
+            "item": "竹地板門",
+            "x": -71844,
+            "genre": "building",
+            "z": -72162,
+            "id": "minecraft:bamboo_trapdoor"
+        },
+        {
+            "item": "鐵地板門",
+            "x": -71844,
+            "genre": "building",
+            "z": -72163,
+            "id": "minecraft:iron_trapdoor"
+        },
+        {
+            "item": "橡木壓力板",
+            "x": -71844,
+            "genre": "building",
+            "z": -72164,
+            "id": "minecraft:oak_pressure_plate"
+        },
+        {
+            "item": "杉木壓力板",
+            "x": -71844,
+            "genre": "building",
+            "z": -72165,
+            "id": "minecraft:spruce_pressure_plate"
+        },
+        {
+            "item": "樺木壓力板",
+            "x": -71844,
+            "genre": "building",
+            "z": -72166,
+            "id": "minecraft:birch_pressure_plate"
+        },
+        {
+            "item": "叢林木壓力板",
+            "x": -71844,
+            "genre": "building",
+            "z": -72167,
+            "id": "minecraft:jungle_pressure_plate"
+        },
+        {
+            "item": "相思木壓力板",
+            "x": -71844,
+            "genre": "building",
+            "z": -72168,
+            "id": "minecraft:acacia_pressure_plate"
+        },
+        {
+            "item": "黑橡木壓力板",
+            "x": -71844,
+            "genre": "building",
+            "z": -72169,
+            "id": "minecraft:dark_oak_pressure_plate"
+        },
+        {
+            "item": "紅樹林木壓力板",
+            "x": -71844,
+            "genre": "building",
+            "z": -72170,
+            "id": "minecraft:mangrove_pressure_plate"
+        },
+        {
+            "item": "櫻花木壓力板",
+            "x": -71844,
+            "genre": "building",
+            "z": -72171,
+            "id": "minecraft:cherry_pressure_plate"
+        },
+        {
+            "item": "緋紅蕈木壓力板",
+            "x": -71844,
+            "genre": "building",
+            "z": -72172,
+            "id": "minecraft:crimson_pressure_plate"
+        },
+        {
+            "item": "扭曲蕈木壓力板",
+            "x": -71844,
+            "genre": "building",
+            "z": -72173,
+            "id": "minecraft:warped_pressure_plate"
+        },
+        {
+            "item": "竹壓力板",
+            "x": -71844,
+            "genre": "building",
+            "z": -72174,
+            "id": "minecraft:bamboo_pressure_plate"
+        },
+        {
+            "item": "重質測重壓力板",
+            "x": -71844,
+            "genre": "building",
+            "z": -72175,
+            "id": "minecraft:heavy_weighted_pressure_plate"
+        },
+        {
+            "item": "輕質測重壓力板",
+            "x": -71844,
+            "genre": "building",
+            "z": -72176,
+            "id": "minecraft:light_weighted_pressure_plate"
+        },
+        {
+            "item": "杉木地板門",
+            "x": -71844,
+            "genre": "building",
+            "z": -72145,
+            "id": "minecraft:spruce_trapdoor"
+        },
+        {
+            "item": "樺木地板門",
+            "x": -71844,
+            "genre": "building",
+            "z": -72146,
+            "id": "minecraft:birch_trapdoor"
+        },
+        {
+            "item": "叢林木地板門",
+            "x": -71844,
+            "genre": "building",
+            "z": -72155,
+            "id": "minecraft:jungle_trapdoor"
+        },
+        {
+            "item": "相思木地板門",
+            "x": -71844,
+            "genre": "building",
+            "z": -72156,
+            "id": "minecraft:acacia_trapdoor"
+        },
+        {
+            "item": "黑橡木地板門",
+            "x": -71844,
+            "genre": "building",
+            "z": -72157,
+            "id": "minecraft:dark_oak_trapdoor"
+        },
+        {
+            "item": "紅樹林木地板門",
+            "x": -71844,
+            "genre": "building",
+            "z": -72158,
+            "id": "minecraft:mangrove_trapdoor"
+        },
+        {
+            "item": "櫻花木地板門",
+            "x": -71844,
+            "genre": "building",
+            "z": -72159,
+            "id": "minecraft:cherry_trapdoor"
+        },
+        {
+            "item": "緋紅蕈木地板門",
+            "x": -71844,
+            "genre": "building",
+            "z": -72160,
+            "id": "minecraft:crimson_trapdoor"
+        },
+        {
+            "item": "緋紅蕈木柵欄門",
+            "x": -71844,
+            "genre": "building",
+            "z": -72129,
+            "id": "minecraft:crimson_fence_gate"
+        },
+        {
+            "item": "扭曲蕈木柵欄門",
+            "x": -71844,
+            "genre": "building",
+            "z": -72130,
+            "id": "minecraft:warped_fence_gate"
+        },
+        {
+            "item": "竹柵欄門",
+            "x": -71844,
+            "genre": "building",
+            "z": -72131,
+            "id": "minecraft:bamboo_fence_gate"
+        },
+        {
+            "item": "橡木地板門",
+            "x": -71844,
+            "genre": "building",
+            "z": -72144,
+            "id": "minecraft:oak_trapdoor"
+        },
+        {
+            "item": "橡木門",
+            "x": -71844,
+            "genre": "building",
+            "z": -72132,
+            "id": "minecraft:oak_door"
+        },
+        {
+            "item": "杉木門",
+            "x": -71844,
+            "genre": "building",
+            "z": -72133,
+            "id": "minecraft:spruce_door"
+        },
+        {
+            "item": "樺木門",
+            "x": -71844,
+            "genre": "building",
+            "z": -72134,
+            "id": "minecraft:birch_door"
+        },
+        {
+            "item": "叢林木門",
+            "x": -71844,
+            "genre": "building",
+            "z": -72135,
+            "id": "minecraft:jungle_door"
+        },
+        {
+            "item": "相思木門",
+            "x": -71844,
+            "genre": "building",
+            "z": -72136,
+            "id": "minecraft:acacia_door"
+        },
+        {
+            "item": "黑橡木門",
+            "x": -71844,
+            "genre": "building",
+            "z": -72137,
+            "id": "minecraft:dark_oak_door"
+        },
+        {
+            "item": "紅樹林木門",
+            "x": -71844,
+            "genre": "building",
+            "z": -72138,
+            "id": "minecraft:mangrove_door"
+        },
+        {
+            "item": "櫻花木門",
+            "x": -71844,
+            "genre": "building",
+            "z": -72139,
+            "id": "minecraft:cherry_door"
+        },
+        {
+            "item": "緋紅蕈木門",
+            "x": -71844,
+            "genre": "building",
+            "z": -72140,
+            "id": "minecraft:crimson_door"
+        },
+        {
+            "item": "扭曲蕈木門",
+            "x": -71844,
+            "genre": "building",
+            "z": -72141,
+            "id": "minecraft:warped_door"
+        },
+        {
+            "item": "竹門",
+            "x": -71844,
+            "genre": "building",
+            "z": -72142,
+            "id": "minecraft:bamboo_door"
+        },
+        {
+            "item": "鐵門",
+            "x": -71844,
+            "genre": "building",
+            "z": -72143,
+            "id": "minecraft:iron_door"
+        },
+        {
+            "item": "橡木柵欄門",
+            "x": -71841,
+            "genre": "building",
+            "z": -72123,
+            "id": "minecraft:oak_fence_gate"
+        },
+        {
+            "item": "杉木柵欄門",
+            "x": -71842,
+            "genre": "building",
+            "z": -72123,
+            "id": "minecraft:spruce_fence_gate"
+        },
+        {
+            "item": "樺木柵欄門",
+            "x": -71843,
+            "genre": "building",
+            "z": -72123,
+            "id": "minecraft:birch_fence_gate"
+        },
+        {
+            "item": "叢林木柵欄門",
+            "x": -71844,
+            "genre": "building",
+            "z": -72124,
+            "id": "minecraft:jungle_fence_gate"
+        },
+        {
+            "item": "相思木柵欄門",
+            "x": -71844,
+            "genre": "building",
+            "z": -72125,
+            "id": "minecraft:acacia_fence_gate"
+        },
+        {
+            "item": "黑橡木柵欄門",
+            "x": -71844,
+            "genre": "building",
+            "z": -72126,
+            "id": "minecraft:dark_oak_fence_gate"
+        },
+        {
+            "item": "紅樹林木柵欄門",
+            "x": -71844,
+            "genre": "building",
+            "z": -72127,
+            "id": "minecraft:mangrove_fence_gate"
+        },
+        {
+            "item": "櫻花木柵欄門",
+            "x": -71844,
+            "genre": "building",
+            "z": -72128,
+            "id": "minecraft:cherry_fence_gate"
+        },
+        {
+            "item": "地獄石英",
+            "x": -71856,
+            "genre": "ingredients",
+            "z": -72103,
+            "id": "minecraft:quartz"
+        },
+        {
+            "item": "木炭",
+            "x": -71855,
+            "genre": "ingredients",
+            "z": -72103,
+            "id": "minecraft:charcoal"
+        },
+        {
+            "item": "煤炭",
+            "x": -71854,
+            "genre": "ingredients",
+            "z": -72103,
+            "id": "minecraft:coal"
+        },
+        {
+            "item": "鐵粒",
+            "x": -71850,
+            "genre": "ingredients",
+            "z": -72103,
+            "id": "minecraft:iron_nugget"
+        },
+        {
+            "item": "鐵錠",
+            "x": -71849,
+            "genre": "ingredients",
+            "z": -72103,
+            "id": "minecraft:iron_ingot"
+        },
+        {
+            "item": "鐵原礦",
+            "x": -71848,
+            "genre": "ingredients",
+            "z": -72103,
+            "id": "minecraft:raw_iron"
+        },
+        {
+            "item": "金粒",
+            "x": -71844,
+            "genre": "ingredients",
+            "z": -72103,
+            "id": "minecraft:gold_nugget"
+        },
+        {
+            "item": "金錠",
+            "x": -71843,
+            "genre": "ingredients",
+            "z": -72103,
+            "id": "minecraft:gold_ingot"
+        },
+        {
+            "item": "金原礦",
+            "x": -71842,
+            "genre": "ingredients",
+            "z": -72103,
+            "id": "minecraft:raw_gold"
+        },
+        {
+            "item": "鵝卵石",
+            "x": -71841,
+            "genre": "building",
+            "z": -72110,
+            "id": "minecraft:cobblestone"
+        },
+        {
+            "item": "鵝卵石",
+            "genre": "building",
+            "x": -71842,
+            "z": -72110,
+            "id": "minecraft:cobblestone"
+        },
+        {
+            "item": "鵝卵石",
+            "genre": "building",
+            "x": -71843,
+            "z": -72110,
+            "id": "minecraft:cobblestone"
+        },
+        {
+            "item": "青苔鵝卵石",
+            "x": -71844,
+            "genre": "building",
+            "z": -72110,
+            "id": "minecraft:mossy_cobblestone"
+        },
+        {
+            "item": "平滑石頭",
+            "x": -71845,
+            "genre": "building",
+            "z": -72110,
+            "id": "minecraft:smooth_stone"
+        },
+        {
+            "item": "石磚",
+            "x": -71846,
+            "genre": "building",
+            "z": -72110,
+            "id": "minecraft:stone_bricks"
+        },
+        {
+            "item": "石磚",
+            "genre": "building",
+            "x": -71847,
+            "z": -72110,
+            "id": "minecraft:stone_bricks"
+        },
+        {
+            "item": "裂紋石磚",
+            "x": -71848,
+            "genre": "building",
+            "z": -72110,
+            "id": "minecraft:cracked_stone_bricks"
+        },
+        {
+            "item": "浮雕石磚",
+            "x": -71849,
+            "genre": "building",
+            "z": -72110,
+            "id": "minecraft:chiseled_stone_bricks"
+        },
+        {
+            "item": "青苔石磚",
+            "x": -71850,
+            "genre": "building",
+            "z": -72110,
+            "id": "minecraft:mossy_stone_bricks"
+        },
+        {
+            "item": "鎖鏈",
+            "x": -71852,
+            "genre": "ingredients",
+            "z": -72103,
+            "id": "minecraft:chain"
+        },
+        {
+            "item": "鐵柵欄",
+            "x": -71851,
+            "genre": "ingredients",
+            "z": -72103,
+            "id": "minecraft:iron_bars"
+        },
+        {
+            "item": "鐵方塊",
+            "genre": "ingredients",
+            "x": -71846,
+            "z": -72103,
+            "id": "minecraft:iron_block"
+        },
+        {
+            "item": "鐵方塊",
+            "x": -71845,
+            "genre": "ingredients",
+            "z": -72103,
+            "id": "minecraft:iron_block"
+        },
+        {
+            "item": "金原礦方塊",
+            "x": -71841,
+            "genre": "ingredients",
+            "z": -72103,
+            "id": "minecraft:raw_gold_block"
+        },
+        {
+            "item": "鐵原礦方塊",
+            "x": -71847,
+            "genre": "ingredients",
+            "z": -72103,
+            "id": "minecraft:raw_iron_block"
+        },
+        {
+            "item": "煤炭方塊",
+            "x": -71853,
+            "genre": "ingredients",
+            "z": -72103,
+            "id": "minecraft:coal_block"
+        },
+        {
+            "item": "玫瑰叢",
+            "x": -71840,
+            "genre": "natural",
+            "z": -72218,
+            "id": "minecraft:rose_bush"
+        },
+        {
+            "item": "牡丹花",
+            "x": -71839,
+            "genre": "natural",
+            "z": -72218,
+            "id": "minecraft:peony"
+        },
+        {
+            "item": "瓶子草",
+            "x": -71838,
+            "genre": "natural",
+            "z": -72218,
+            "id": "minecraft:pitcher_plant"
+        },
+        {
+            "item": "大懸葉草",
+            "x": -71837,
+            "genre": "natural",
+            "z": -72218,
+            "id": "minecraft:big_dripleaf"
+        },
+        {
+            "item": "小懸葉草",
+            "x": -71836,
+            "genre": "natural",
+            "z": -72218,
+            "id": "minecraft:small_dripleaf"
+        },
+        {
+            "item": "歌萊枝",
+            "x": -71835,
+            "genre": "natural",
+            "z": -72218,
+            "id": "minecraft:chorus_plant"
+        },
+        {
+            "item": "歌萊花",
+            "x": -71834,
+            "genre": "natural",
+            "z": -72218,
+            "id": "minecraft:chorus_flower"
+        },
+        {
+            "item": "懸根",
+            "x": -71833,
+            "genre": "natural",
+            "z": -72218,
+            "id": "minecraft:hanging_roots"
+        },
+        {
+            "item": "海龜蛋",
+            "x": -71832,
+            "genre": "natural",
+            "z": -72218,
+            "id": "minecraft:turtle_egg"
+        },
+        {
+            "item": "嗅探獸蛋",
+            "x": -71831,
+            "genre": "natural",
+            "z": -72218,
+            "id": "minecraft:sniffer_egg"
+        },
+        {
+            "item": "荷葉",
+            "x": -71830,
+            "genre": "natural",
+            "z": -72218,
+            "id": "minecraft:lily_pad"
+        },
+        {
+            "item": "海草",
+            "x": -71829,
+            "genre": "natural",
+            "z": -72218,
+            "id": "minecraft:seagrass"
+        },
+        {
+            "item": "海鞘",
+            "x": -71828,
+            "genre": "natural",
+            "z": -72218,
+            "id": "minecraft:sea_pickle"
+        },
+        {
+            "item": "竹子",
+            "x": -71827,
+            "genre": "natural",
+            "z": -72218,
+            "id": "minecraft:bamboo"
+        },
+        {
+            "item": "仙人掌",
+            "x": -71826,
+            "genre": "natural",
+            "z": -72218,
+            "id": "minecraft:cactus"
+        },
+        {
+            "item": "甘蔗",
+            "x": -71825,
+            "genre": "natural",
+            "z": -72218,
+            "id": "minecraft:sugar_cane"
+        },
+        {
+            "item": "死亡的角珊瑚",
+            "x": -71840,
+            "genre": "natural",
+            "z": -72211,
+            "id": "minecraft:dead_horn_coral"
+        },
+        {
+            "item": "死亡的火珊瑚",
+            "x": -71839,
+            "genre": "natural",
+            "z": -72211,
+            "id": "minecraft:dead_fire_coral"
+        },
+        {
+            "item": "死亡的氣泡珊瑚",
+            "x": -71838,
+            "genre": "natural",
+            "z": -72211,
+            "id": "minecraft:dead_bubble_coral"
+        },
+        {
+            "item": "死亡的腦珊瑚",
+            "x": -71837,
+            "genre": "natural",
+            "z": -72211,
+            "id": "minecraft:dead_brain_coral"
+        },
+        {
+            "item": "死亡的管珊瑚",
+            "x": -71836,
+            "genre": "natural",
+            "z": -72211,
+            "id": "minecraft:dead_tube_coral"
+        },
+        {
+            "item": "角珊瑚",
+            "x": -71835,
+            "genre": "natural",
+            "z": -72211,
+            "id": "minecraft:horn_coral"
+        },
+        {
+            "item": "火珊瑚",
+            "x": -71834,
+            "genre": "natural",
+            "z": -72211,
+            "id": "minecraft:fire_coral"
+        },
+        {
+            "item": "氣泡珊瑚",
+            "x": -71833,
+            "genre": "natural",
+            "z": -72211,
+            "id": "minecraft:bubble_coral"
+        },
+        {
+            "item": "腦珊瑚",
+            "x": -71832,
+            "genre": "natural",
+            "z": -72211,
+            "id": "minecraft:brain_coral"
+        },
+        {
+            "item": "管珊瑚",
+            "x": -71831,
+            "genre": "natural",
+            "z": -72211,
+            "id": "minecraft:tube_coral"
+        },
+        {
+            "item": "死亡的角珊瑚方塊",
+            "x": -71830,
+            "genre": "natural",
+            "z": -72211,
+            "id": "minecraft:dead_horn_coral_block"
+        },
+        {
+            "item": "死亡的火珊瑚方塊",
+            "x": -71829,
+            "genre": "natural",
+            "z": -72211,
+            "id": "minecraft:dead_fire_coral_block"
+        },
+        {
+            "item": "死亡的氣泡珊瑚方塊",
+            "x": -71828,
+            "genre": "natural",
+            "z": -72211,
+            "id": "minecraft:dead_bubble_coral_block"
+        },
+        {
+            "item": "死亡的腦珊瑚方塊",
+            "x": -71827,
+            "genre": "natural",
+            "z": -72211,
+            "id": "minecraft:dead_brain_coral_block"
+        },
+        {
+            "item": "死亡的管珊瑚方塊",
+            "x": -71826,
+            "genre": "natural",
+            "z": -72211,
+            "id": "minecraft:dead_tube_coral_block"
+        },
+        {
+            "item": "角珊瑚方塊",
+            "x": -71825,
+            "genre": "natural",
+            "z": -72211,
+            "id": "minecraft:horn_coral_block"
+        },
+        {
+            "item": "上蠟的切製銅半磚",
+            "x": -71825,
+            "genre": "building",
+            "z": -72198,
+            "id": "minecraft:waxed_cut_copper_slab"
+        },
+        {
+            "item": "氧化的切製銅半磚",
+            "genre": "building",
+            "x": -71826,
+            "z": -72198,
+            "id": "minecraft:waxed_oxidized_cut_copper_slab"
+        },
+        {
+            "item": "風化的切製銅半磚",
+            "genre": "building",
+            "x": -71827,
+            "z": -72198,
+            "id": "minecraft:waxed_weathered_cut_copper_slab"
+        },
+        {
+            "item": "斑駁的切製銅半磚",
+            "genre": "building",
+            "x": -71828,
+            "z": -72198,
+            "id": "minecraft:waxed_exposed_cut_copper_slab"
+        },
+        {
+            "item": "切製銅半磚",
+            "genre": "building",
+            "x": -71829,
+            "z": -72198,
+            "id": "minecraft:waxed_cut_copper_slab"
+        },
+        {
+            "item": "平滑石英半磚",
+            "x": -71830,
+            "genre": "building",
+            "z": -72198,
+            "id": "minecraft:smooth_quartz_slab"
+        },
+        {
+            "item": "石英半磚",
+            "x": -71831,
+            "genre": "building",
+            "z": -72198,
+            "id": "minecraft:quartz_slab"
+        },
+        {
+            "item": "紫珀半磚",
+            "x": -71832,
+            "genre": "building",
+            "z": -72198,
+            "id": "minecraft:purpur_slab"
+        },
+        {
+            "item": "終界石磚半磚",
+            "x": -71833,
+            "genre": "building",
+            "z": -72198,
+            "id": "minecraft:end_stone_brick_slab"
+        },
+        {
+            "item": "拋光黑石磚半磚",
+            "x": -71834,
+            "genre": "building",
+            "z": -72198,
+            "id": "minecraft:polished_blackstone_brick_slab"
+        },
+        {
+            "item": "拋光黑石半磚",
+            "x": -71835,
+            "genre": "building",
+            "z": -72198,
+            "id": "minecraft:polished_blackstone_slab"
+        },
+        {
+            "item": "黑石半磚",
+            "x": -71836,
+            "genre": "building",
+            "z": -72198,
+            "id": "minecraft:blackstone_slab"
+        },
+        {
+            "item": "紅地獄磚半磚",
+            "x": -71837,
+            "genre": "building",
+            "z": -72198,
+            "id": "minecraft:red_nether_brick_slab"
+        },
+        {
+            "item": "地獄磚半磚",
+            "x": -71838,
+            "genre": "building",
+            "z": -72198,
+            "id": "minecraft:nether_brick_slab"
+        },
+        {
+            "item": "暗海磷石半磚",
+            "x": -71839,
+            "genre": "building",
+            "z": -72198,
+            "id": "minecraft:dark_prismarine_slab"
+        },
+        {
+            "item": "海磷石磚半磚",
+            "x": -71840,
+            "genre": "building",
+            "z": -72198,
+            "id": "minecraft:prismarine_brick_slab"
+        },
+        {
+            "item": "上蠟的銅方塊",
+            "x": -71840,
+            "genre": "building",
+            "z": -72191,
+            "id": "minecraft:waxed_copper_block"
+        },
+        {
+            "item": "上蠟的切製銅方塊",
+            "x": -71839,
+            "genre": "building",
+            "z": -72191,
+            "id": "minecraft:waxed_cut_copper"
+        },
+        {
+            "item": "上蠟的斑駁銅方塊",
+            "x": -71838,
+            "genre": "building",
+            "z": -72191,
+            "id": "minecraft:waxed_exposed_copper"
+        },
+        {
+            "item": "上蠟的斑駁切製銅方塊",
+            "x": -71837,
+            "genre": "building",
+            "z": -72191,
+            "id": "minecraft:waxed_exposed_cut_copper"
+        },
+        {
+            "item": "上蠟的風化銅方塊",
+            "x": -71836,
+            "genre": "building",
+            "z": -72191,
+            "id": "minecraft:waxed_weathered_copper"
+        },
+        {
+            "item": "上蠟的風化切製銅方塊",
+            "x": -71835,
+            "genre": "building",
+            "z": -72191,
+            "id": "minecraft:waxed_weathered_cut_copper"
+        },
+        {
+            "item": "上蠟的氧化銅方塊",
+            "x": -71834,
+            "genre": "building",
+            "z": -72191,
+            "id": "minecraft:waxed_oxidized_copper"
+        },
+        {
+            "item": "上蠟的氧化切製銅方塊",
+            "x": -71833,
+            "genre": "building",
+            "z": -72191,
+            "id": "minecraft:waxed_oxidized_cut_copper"
+        },
+        {
+            "item": "鵝卵石牆",
+            "x": -71832,
+            "genre": "building",
+            "z": -72191,
+            "id": "minecraft:cobblestone_wall"
+        },
+        {
+            "item": "青苔鵝卵石牆",
+            "x": -71831,
+            "genre": "building",
+            "z": -72191,
+            "id": "minecraft:mossy_cobblestone_wall"
+        },
+        {
+            "item": "石磚牆",
+            "x": -71830,
+            "genre": "building",
+            "z": -72191,
+            "id": "minecraft:stone_brick_wall"
+        },
+        {
+            "item": "青苔石磚牆",
+            "x": -71829,
+            "genre": "building",
+            "z": -72191,
+            "id": "minecraft:mossy_stone_brick_wall"
+        },
+        {
+            "item": "花崗岩牆",
+            "x": -71828,
+            "genre": "building",
+            "z": -72191,
+            "id": "minecraft:granite_wall"
+        },
+        {
+            "item": "閃長岩牆",
+            "x": -71827,
+            "genre": "building",
+            "z": -72191,
+            "id": "minecraft:diorite_wall"
+        },
+        {
+            "item": "安山岩牆",
+            "x": -71826,
+            "genre": "building",
+            "z": -72191,
+            "id": "minecraft:andesite_wall"
+        },
+        {
+            "item": "碎深板岩牆",
+            "x": -71825,
+            "genre": "building",
+            "z": -72191,
+            "id": "minecraft:cobbled_deepslate_wall"
+        },
+        {
+            "item": "樺木按鈕",
+            "x": -71840,
+            "genre": "building",
+            "z": -72178,
+            "id": "minecraft:birch_button"
+        },
+        {
+            "item": "叢林木按鈕",
+            "x": -71839,
+            "genre": "building",
+            "z": -72178,
+            "id": "minecraft:jungle_button"
+        },
+        {
+            "item": "相思木按鈕",
+            "x": -71838,
+            "genre": "building",
+            "z": -72178,
+            "id": "minecraft:acacia_button"
+        },
+        {
+            "item": "黑橡木按鈕",
+            "x": -71837,
+            "genre": "building",
+            "z": -72178,
+            "id": "minecraft:dark_oak_button"
+        },
+        {
+            "item": "紅樹林木按鈕",
+            "x": -71836,
+            "genre": "building",
+            "z": -72178,
+            "id": "minecraft:mangrove_button"
+        },
+        {
+            "item": "櫻花木按鈕",
+            "x": -71835,
+            "genre": "building",
+            "z": -72178,
+            "id": "minecraft:cherry_button"
+        },
+        {
+            "item": "緋紅蕈木按鈕",
+            "x": -71834,
+            "genre": "building",
+            "z": -72178,
+            "id": "minecraft:crimson_button"
+        },
+        {
+            "item": "扭曲蕈木按鈕",
+            "x": -71833,
+            "genre": "building",
+            "z": -72178,
+            "id": "minecraft:warped_button"
+        },
+        {
+            "item": "竹按鈕",
+            "x": -71832,
+            "genre": "building",
+            "z": -72178,
+            "id": "minecraft:bamboo_button"
+        },
+        {
+            "item": "石製按鈕",
+            "x": -71831,
+            "genre": "building",
+            "z": -72178,
+            "id": "minecraft:stone_button"
+        },
+        {
+            "item": "拋光黑石按鈕",
+            "x": -71830,
+            "genre": "building",
+            "z": -72178,
+            "id": "minecraft:polished_blackstone_button"
+        },
+        {
+            "item": "橡木告示牌",
+            "x": -71829,
+            "genre": "building",
+            "z": -72178,
+            "id": "minecraft:oak_sign"
+        },
+        {
+            "item": "杉木告示牌",
+            "x": -71828,
+            "genre": "building",
+            "z": -72178,
+            "id": "minecraft:spruce_sign"
+        },
+        {
+            "item": "樺木告示牌",
+            "x": -71827,
+            "genre": "building",
+            "z": -72178,
+            "id": "minecraft:birch_sign"
+        },
+        {
+            "item": "叢林木告示牌",
+            "x": -71826,
+            "genre": "building",
+            "z": -72178,
+            "id": "minecraft:jungle_sign"
+        },
+        {
+            "item": "相思木告示牌",
+            "x": -71825,
+            "genre": "building",
+            "z": -72178,
+            "id": "minecraft:acacia_sign"
+        },
+        {
+            "item": "櫻花木半磚",
+            "x": -71825,
+            "genre": "building",
+            "z": -72123,
+            "id": "minecraft:cherry_slab"
+        },
+        {
+            "item": "緋紅蕈木半磚",
+            "x": -71826,
+            "genre": "building",
+            "z": -72123,
+            "id": "minecraft:crimson_slab"
+        },
+        {
+            "item": "扭曲蕈木半磚",
+            "x": -71827,
+            "genre": "building",
+            "z": -72123,
+            "id": "minecraft:warped_slab"
+        },
+        {
+            "item": "竹半磚",
+            "x": -71828,
+            "genre": "building",
+            "z": -72123,
+            "id": "minecraft:bamboo_slab"
+        },
+        {
+            "item": "竹拼半磚",
+            "x": -71829,
+            "genre": "building",
+            "z": -72123,
+            "id": "minecraft:bamboo_mosaic_slab"
+        },
+        {
+            "item": "橡木柵欄",
+            "x": -71830,
+            "genre": "building",
+            "z": -72123,
+            "id": "minecraft:oak_fence"
+        },
+        {
+            "item": "杉木柵欄",
+            "x": -71831,
+            "genre": "building",
+            "z": -72123,
+            "id": "minecraft:spruce_fence"
+        },
+        {
+            "item": "樺木柵欄",
+            "x": -71832,
+            "genre": "building",
+            "z": -72123,
+            "id": "minecraft:birch_fence"
+        },
+        {
+            "item": "叢林木柵欄",
+            "x": -71833,
+            "genre": "building",
+            "z": -72123,
+            "id": "minecraft:jungle_fence"
+        },
+        {
+            "item": "相思木柵欄",
+            "x": -71834,
+            "genre": "building",
+            "z": -72123,
+            "id": "minecraft:acacia_fence"
+        },
+        {
+            "item": "黑橡木柵欄",
+            "x": -71835,
+            "genre": "building",
+            "z": -72123,
+            "id": "minecraft:dark_oak_fence"
+        },
+        {
+            "item": "紅樹林木柵欄",
+            "x": -71836,
+            "genre": "building",
+            "z": -72123,
+            "id": "minecraft:mangrove_fence"
+        },
+        {
+            "item": "櫻花木柵欄",
+            "x": -71837,
+            "genre": "building",
+            "z": -72123,
+            "id": "minecraft:cherry_fence"
+        },
+        {
+            "item": "緋紅蕈木柵欄",
+            "x": -71838,
+            "genre": "building",
+            "z": -72123,
+            "id": "minecraft:crimson_fence"
+        },
+        {
+            "item": "扭曲蕈木柵欄",
+            "x": -71839,
+            "genre": "building",
+            "z": -72123,
+            "id": "minecraft:warped_fence"
+        },
+        {
+            "item": "竹柵欄",
+            "x": -71840,
+            "genre": "building",
+            "z": -72123,
+            "id": "minecraft:bamboo_fence"
+        },
+        {
+            "item": "銅錠",
+            "x": -71839,
+            "genre": "ingredients",
+            "z": -72103,
+            "id": "minecraft:copper_ingot"
+        },
+        {
+            "item": "銅原礦",
+            "x": -71838,
+            "genre": "ingredients",
+            "z": -72103,
+            "id": "minecraft:raw_copper"
+        },
+        {
+            "item": "小型紫水晶芽",
+            "x": -71836,
+            "genre": "ingredients",
+            "z": -72103,
+            "id": "minecraft:small_amethyst_bud"
+        },
+        {
+            "item": "中型紫水晶芽",
+            "x": -71835,
+            "genre": "ingredients",
+            "z": -72103,
+            "id": "minecraft:medium_amethyst_bud"
+        },
+        {
+            "item": "大型紫水晶芽",
+            "x": -71834,
+            "genre": "ingredients",
+            "z": -72103,
+            "id": "minecraft:large_amethyst_bud"
+        },
+        {
+            "item": "紫水晶晶簇",
+            "x": -71833,
+            "genre": "ingredients",
+            "z": -72103,
+            "id": "minecraft:amethyst_cluster"
+        },
+        {
+            "item": "紫水晶碎片",
+            "x": -71832,
+            "genre": "ingredients",
+            "z": -72103,
+            "id": "minecraft:amethyst_shard"
+        },
+        {
+            "item": "青金石",
+            "x": -71830,
+            "genre": "ingredients",
+            "z": -72103,
+            "id": "minecraft:lapis_lazuli"
+        },
+        {
+            "item": "綠寶石",
+            "x": -71828,
+            "genre": "ingredients",
+            "z": -72103,
+            "id": "minecraft:emerald"
+        },
+        {
+            "item": "鑽石",
+            "x": -71826,
+            "genre": "ingredients",
+            "z": -72103,
+            "id": "minecraft:diamond"
+        },
+        {
+            "item": "黑色蠟燭",
+            "x": -71825,
+            "genre": "colored",
+            "z": -72110,
+            "id": "minecraft:black_candle"
+        },
+        {
+            "item": "棕色蠟燭",
+            "x": -71826,
+            "genre": "colored",
+            "z": -72110,
+            "id": "minecraft:brown_candle"
+        },
+        {
+            "item": "紅色蠟燭",
+            "x": -71827,
+            "genre": "colored",
+            "z": -72110,
+            "id": "minecraft:red_candle"
+        },
+        {
+            "item": "橙色蠟燭",
+            "x": -71828,
+            "genre": "colored",
+            "z": -72110,
+            "id": "minecraft:orange_candle"
+        },
+        {
+            "item": "黃色蠟燭",
+            "x": -71829,
+            "genre": "colored",
+            "z": -72110,
+            "id": "minecraft:yellow_candle"
+        },
+        {
+            "item": "淺綠色蠟燭",
+            "x": -71830,
+            "genre": "colored",
+            "z": -72110,
+            "id": "minecraft:lime_candle"
+        },
+        {
+            "item": "綠色蠟燭",
+            "x": -71831,
+            "genre": "colored",
+            "z": -72110,
+            "id": "minecraft:green_candle"
+        },
+        {
+            "item": "青色蠟燭",
+            "x": -71832,
+            "genre": "colored",
+            "z": -72110,
+            "id": "minecraft:cyan_candle"
+        },
+        {
+            "item": "淺藍色蠟燭",
+            "x": -71833,
+            "genre": "colored",
+            "z": -72110,
+            "id": "minecraft:light_blue_candle"
+        },
+        {
+            "item": "藍色蠟燭",
+            "x": -71834,
+            "genre": "colored",
+            "z": -72110,
+            "id": "minecraft:blue_candle"
+        },
+        {
+            "item": "紫色蠟燭",
+            "x": -71835,
+            "genre": "colored",
+            "z": -72110,
+            "id": "minecraft:purple_candle"
+        },
+        {
+            "item": "洋紅色蠟燭",
+            "x": -71836,
+            "genre": "colored",
+            "z": -72110,
+            "id": "minecraft:magenta_candle"
+        },
+        {
+            "item": "粉紅色蠟燭",
+            "x": -71837,
+            "genre": "colored",
+            "z": -72110,
+            "id": "minecraft:pink_candle"
+        },
+        {
+            "item": "石頭",
+            "x": -71838,
+            "genre": "building",
+            "z": -72110,
+            "id": "minecraft:stone"
+        },
+        {
+            "item": "石頭",
+            "genre": "building",
+            "x": -71839,
+            "z": -72110,
+            "id": "minecraft:stone"
+        },
+        {
+            "item": "石頭",
+            "genre": "building",
+            "x": -71840,
+            "z": -72110,
+            "id": "minecraft:stone"
+        },
+        {
+            "item": "黃金方塊",
+            "x": -71840,
+            "genre": "ingredients",
+            "z": -72103,
+            "id": "minecraft:gold_block"
+        },
+        {
+            "item": "銅原礦方塊",
+            "x": -71837,
+            "genre": "ingredients",
+            "z": -72103,
+            "id": "minecraft:raw_copper_block"
+        },
+        {
+            "item": "紫水晶方塊",
+            "x": -71831,
+            "genre": "ingredients",
+            "z": -72103,
+            "id": "minecraft:amethyst_block"
+        },
+        {
+            "item": "青金石方塊",
+            "x": -71829,
+            "genre": "ingredients",
+            "z": -72103,
+            "id": "minecraft:lapis_block"
+        },
+        {
+            "item": "綠寶石方塊",
+            "x": -71827,
+            "genre": "ingredients",
+            "z": -72103,
+            "id": "minecraft:emerald_block"
+        },
+        {
+            "item": "鑽石方塊",
+            "x": -71825,
+            "genre": "ingredients",
+            "z": -72103,
+            "id": "minecraft:diamond_block"
+        },
+        {
+            "item": "小麥種子",
+            "x": -71824,
+            "genre": "natural",
+            "z": -72218,
+            "id": "minecraft:wheat_seeds"
+        },
+        {
+            "item": "可可豆",
+            "x": -71823,
+            "genre": "natural",
+            "z": -72218,
+            "id": "minecraft:cocoa_beans"
+        },
+        {
+            "item": "南瓜種子",
+            "x": -71822,
+            "genre": "natural",
+            "z": -72218,
+            "id": "minecraft:pumpkin_seeds"
+        },
+        {
+            "item": "西瓜種子",
+            "x": -71821,
+            "genre": "natural",
+            "z": -72218,
+            "id": "minecraft:melon_seeds"
+        },
+        {
+            "item": "甜菜種子",
+            "x": -71820,
+            "genre": "natural",
+            "z": -72218,
+            "id": "minecraft:beetroot_seeds"
+        },
+        {
+            "item": "火把花種子",
+            "x": -71819,
+            "genre": "natural",
+            "z": -72218,
+            "id": "minecraft:torchflower_seeds"
+        },
+        {
+            "item": "瓶子草豆莢",
+            "x": -71818,
+            "genre": "natural",
+            "z": -72218,
+            "id": "minecraft:pitcher_pod"
+        },
+        {
+            "item": "火珊瑚方塊",
+            "x": -71824,
+            "genre": "natural",
+            "z": -72211,
+            "id": "minecraft:fire_coral_block"
+        },
+        {
+            "item": "氣泡珊瑚方塊",
+            "x": -71823,
+            "genre": "natural",
+            "z": -72211,
+            "id": "minecraft:bubble_coral_block"
+        },
+        {
+            "item": "腦珊瑚方塊",
+            "x": -71822,
+            "genre": "natural",
+            "z": -72211,
+            "id": "minecraft:brain_coral_block"
+        },
+        {
+            "item": "管珊瑚方塊",
+            "x": -71821,
+            "genre": "natural",
+            "z": -72211,
+            "id": "minecraft:tube_coral_block"
+        },
+        {
+            "item": "火把",
+            "x": -71812,
+            "genre": "functional",
+            "z": -72211,
+            "id": "minecraft:torch"
+        },
+        {
+            "item": "靈魂火把",
+            "x": -71811,
+            "genre": "functional",
+            "z": -72211,
+            "id": "minecraft:soul_torch"
+        },
+        {
+            "item": "燈籠",
+            "x": -71810,
+            "genre": "functional",
+            "z": -72211,
+            "id": "minecraft:lantern"
+        },
+        {
+            "item": "靈魂燈籠",
+            "x": -71809,
+            "genre": "functional",
+            "z": -72211,
+            "id": "minecraft:soul_lantern"
+        },
+        {
+            "item": "泥土",
+            "x": -71809,
+            "genre": "natural",
+            "z": -72198,
+            "id": "minecraft:dirt"
+        },
+        {
+            "item": "草地",
+            "x": -71812,
+            "genre": "natural",
+            "z": -72198,
+            "id": "minecraft:grass_block"
+        },
+        {
+            "item": "灰壤",
+            "x": -71811,
+            "genre": "natural",
+            "z": -72198,
+            "id": "minecraft:podzol"
+        },
+        {
+            "item": "菌絲土",
+            "x": -71810,
+            "genre": "natural",
+            "z": -72198,
+            "id": "minecraft:mycelium"
+        },
+        {
+            "item": "地獄磚柵欄",
+            "x": -71821,
+            "genre": "building",
+            "z": -72198,
+            "id": "minecraft:nether_brick_fence"
+        },
+        {
+            "item": "上蠟的氧化切製銅半磚",
+            "x": -71822,
+            "genre": "building",
+            "z": -72198,
+            "id": "minecraft:waxed_oxidized_cut_copper_slab"
+        },
+        {
+            "item": "上蠟的風化切製銅半磚",
+            "x": -71823,
+            "genre": "building",
+            "z": -72198,
+            "id": "minecraft:waxed_weathered_cut_copper_slab"
+        },
+        {
+            "item": "上蠟的斑駁切製銅半磚",
+            "x": -71824,
+            "genre": "building",
+            "z": -72198,
+            "id": "minecraft:waxed_exposed_cut_copper_slab"
+        },
+        {
+            "item": "拋光深板岩牆",
+            "x": -71824,
+            "genre": "building",
+            "z": -72191,
+            "id": "minecraft:polished_deepslate_wall"
+        },
+        {
+            "item": "深板岩磚牆",
+            "x": -71823,
+            "genre": "building",
+            "z": -72191,
+            "id": "minecraft:deepslate_brick_wall"
+        },
+        {
+            "item": "深板岩磚瓦牆",
+            "x": -71822,
+            "genre": "building",
+            "z": -72191,
+            "id": "minecraft:deepslate_tile_wall"
+        },
+        {
+            "item": "紅磚牆",
+            "x": -71821,
+            "genre": "building",
+            "z": -72191,
+            "id": "minecraft:brick_wall"
+        },
+        {
+            "item": "泥磚牆",
+            "x": -71812,
+            "genre": "building",
+            "z": -72191,
+            "id": "minecraft:mud_brick_wall"
+        },
+        {
+            "item": "砂岩牆",
+            "x": -71811,
+            "genre": "building",
+            "z": -72191,
+            "id": "minecraft:sandstone_wall"
+        },
+        {
+            "item": "紅砂岩牆",
+            "x": -71810,
+            "genre": "building",
+            "z": -72191,
+            "id": "minecraft:red_sandstone_wall"
+        },
+        {
+            "item": "海磷石牆",
+            "x": -71809,
+            "genre": "building",
+            "z": -72191,
+            "id": "minecraft:prismarine_wall"
+        },
+        {
+            "item": "黑橡木告示牌",
+            "x": -71824,
+            "genre": "building",
+            "z": -72178,
+            "id": "minecraft:dark_oak_sign"
+        },
+        {
+            "item": "紅樹林木告示牌",
+            "x": -71823,
+            "genre": "building",
+            "z": -72178,
+            "id": "minecraft:mangrove_sign"
+        },
+        {
+            "item": "櫻花木告示牌",
+            "x": -71822,
+            "genre": "building",
+            "z": -72178,
+            "id": "minecraft:cherry_sign"
+        },
+        {
+            "item": "緋紅蕈木告示牌",
+            "x": -71821,
+            "genre": "building",
+            "z": -72178,
+            "id": "minecraft:crimson_sign"
+        },
+        {
+            "item": "扭曲蕈木告示牌",
+            "x": -71812,
+            "genre": "building",
+            "z": -72178,
+            "id": "minecraft:warped_sign"
+        },
+        {
+            "item": "竹告示牌",
+            "x": -71811,
+            "genre": "building",
+            "z": -72178,
+            "id": "minecraft:bamboo_sign"
+        },
+        {
+            "item": "懸掛式橡木告示牌",
+            "x": -71810,
+            "genre": "building",
+            "z": -72178,
+            "id": "minecraft:oak_hanging_sign"
+        },
+        {
+            "item": "懸掛式杉木告示牌",
+            "x": -71809,
+            "genre": "building",
+            "z": -72178,
+            "id": "minecraft:spruce_hanging_sign"
+        },
+        {
+            "item": "竹拼階梯",
+            "x": -71809,
+            "genre": "building",
+            "z": -72123,
+            "id": "minecraft:bamboo_mosaic_stairs"
+        },
+        {
+            "item": "橡木半磚",
+            "x": -71810,
+            "genre": "building",
+            "z": -72123,
+            "id": "minecraft:oak_slab"
+        },
+        {
+            "item": "杉木半磚",
+            "x": -71811,
+            "genre": "building",
+            "z": -72123,
+            "id": "minecraft:spruce_slab"
+        },
+        {
+            "item": "樺木半磚",
+            "x": -71812,
+            "genre": "building",
+            "z": -72123,
+            "id": "minecraft:birch_slab"
+        },
+        {
+            "item": "叢林木半磚",
+            "x": -71821,
+            "genre": "building",
+            "z": -72123,
+            "id": "minecraft:jungle_slab"
+        },
+        {
+            "item": "相思木半磚",
+            "x": -71822,
+            "genre": "building",
+            "z": -72123,
+            "id": "minecraft:acacia_slab"
+        },
+        {
+            "item": "黑橡木半磚",
+            "x": -71823,
+            "genre": "building",
+            "z": -72123,
+            "id": "minecraft:dark_oak_slab"
+        },
+        {
+            "item": "紅樹林木半磚",
+            "x": -71824,
+            "genre": "building",
+            "z": -72123,
+            "id": "minecraft:mangrove_slab"
+        },
+        {
+            "item": "獄髓錠",
+            "x": -71823,
+            "genre": "ingredients",
+            "z": -72103,
+            "id": "minecraft:netherite_ingot"
+        },
+        {
+            "item": "獄髓碎片",
+            "x": -71822,
+            "genre": "ingredients",
+            "z": -72103,
+            "id": "minecraft:netherite_scrap"
+        },
+        {
+            "item": "灰色玻璃",
+            "x": -71809,
+            "genre": "colored",
+            "z": -72103,
+            "id": "minecraft:gray_stained_glass"
+        },
+        {
+            "item": "淺灰色玻璃",
+            "x": -71810,
+            "genre": "colored",
+            "z": -72103,
+            "id": "minecraft:light_gray_stained_glass"
+        },
+        {
+            "item": "白色玻璃",
+            "x": -71811,
+            "genre": "colored",
+            "z": -72103,
+            "id": "minecraft:white_stained_glass"
+        },
+        {
+            "item": "玻璃",
+            "genre": "colored",
+            "x": -71812,
+            "z": -72103,
+            "id": "minecraft:glass"
+        },
+        {
+            "item": "蠟燭",
+            "x": -71821,
+            "genre": "colored",
+            "z": -72110,
+            "id": "minecraft:candle"
+        },
+        {
+            "item": "白色蠟燭",
+            "x": -71822,
+            "genre": "colored",
+            "z": -72110,
+            "id": "minecraft:white_candle"
+        },
+        {
+            "item": "淺灰色蠟燭",
+            "x": -71823,
+            "genre": "colored",
+            "z": -72110,
+            "id": "minecraft:light_gray_candle"
+        },
+        {
+            "item": "灰色蠟燭",
+            "x": -71824,
+            "genre": "colored",
+            "z": -72110,
+            "id": "minecraft:gray_candle"
+        },
+        {
+            "item": "獄髓方塊",
+            "x": -71824,
+            "genre": "ingredients",
+            "z": -72103,
+            "id": "minecraft:netherite_block"
+        },
+        {
+            "item": "白色旗幟",
+            "x": -71812,
+            "genre": "colored",
+            "z": -72110,
+            "id": "minecraft:white_banner"
+        },
+        {
+            "item": "淺灰色旗幟",
+            "x": -71811,
+            "genre": "colored",
+            "z": -72110,
+            "id": "minecraft:light_gray_banner"
+        },
+        {
+            "item": "灰色旗幟",
+            "x": -71810,
+            "genre": "colored",
+            "z": -72110,
+            "id": "minecraft:gray_banner"
+        },
+        {
+            "item": "黑色旗幟",
+            "x": -71809,
+            "genre": "colored",
+            "z": -72110,
+            "id": "minecraft:black_banner"
+        },
+        {
+            "item": "終界燭",
+            "x": -71808,
+            "genre": "functional",
+            "z": -72211,
+            "id": "minecraft:end_rod"
+        },
+        {
+            "item": "螢光石",
+            "x": -71807,
+            "genre": "functional",
+            "z": -72211,
+            "id": "minecraft:glowstone"
+        },
+        {
+            "item": "蕈光體",
+            "x": -71806,
+            "genre": "functional",
+            "z": -72211,
+            "id": "minecraft:shroomlight"
+        },
+        {
+            "item": "赭黃蛙光體",
+            "x": -71805,
+            "genre": "functional",
+            "z": -72211,
+            "id": "minecraft:ochre_froglight"
+        },
+        {
+            "item": "蒼翠蛙光體",
+            "x": -71804,
+            "genre": "functional",
+            "z": -72211,
+            "id": "minecraft:verdant_froglight"
+        },
+        {
+            "item": "珠紫蛙光體",
+            "x": -71803,
+            "genre": "functional",
+            "z": -72211,
+            "id": "minecraft:pearlescent_froglight"
+        },
+        {
+            "item": "發光地衣",
+            "genre": "functional",
+            "x": -71802,
+            "z": -72211,
+            "id": "minecraft:glow_lichen"
+        },
+        {
+            "item": "工作台",
+            "x": -71801,
+            "genre": "functional",
+            "z": -72211,
+            "id": "minecraft:crafting_table"
+        },
+        {
+            "item": "切石機",
+            "x": -71800,
+            "genre": "functional",
+            "z": -72211,
+            "id": "minecraft:stonecutter"
+        },
+        {
+            "item": "製圖台",
+            "x": -71799,
+            "genre": "functional",
+            "z": -72211,
+            "id": "minecraft:cartography_table"
+        },
+        {
+            "item": "製箭台",
+            "x": -71798,
+            "genre": "functional",
+            "z": -72211,
+            "id": "minecraft:fletching_table"
+        },
+        {
+            "item": "鍛造台",
+            "x": -71797,
+            "genre": "functional",
+            "z": -72211,
+            "id": "minecraft:smithing_table"
+        },
+        {
+            "item": "砂輪",
+            "x": -71796,
+            "genre": "functional",
+            "z": -72211,
+            "id": "minecraft:grindstone"
+        },
+        {
+            "item": "紡織機",
+            "x": -71795,
+            "genre": "functional",
+            "z": -72211,
+            "id": "minecraft:loom"
+        },
+        {
+            "item": "熔爐",
+            "x": -71794,
+            "genre": "functional",
+            "z": -72211,
+            "id": "minecraft:furnace"
+        },
+        {
+            "item": "煙燻爐",
+            "x": -71793,
+            "genre": "functional",
+            "z": -72211,
+            "id": "minecraft:smoker"
+        },
+        {
+            "item": "粗泥",
+            "x": -71808,
+            "genre": "natural",
+            "z": -72198,
+            "id": "minecraft:coarse_dirt"
+        },
+        {
+            "item": "扎根土",
+            "x": -71807,
+            "genre": "natural",
+            "z": -72198,
+            "id": "minecraft:rooted_dirt"
+        },
+        {
+            "item": "礫石",
+            "x": -71804,
+            "genre": "natural",
+            "z": -72198,
+            "id": "minecraft:gravel"
+        },
+        {
+            "item": "黏土",
+            "x": -71805,
+            "genre": "natural",
+            "z": -72198,
+            "id": "minecraft:clay"
+        },
+        {
+            "item": "泥巴",
+            "x": -71806,
+            "genre": "natural",
+            "z": -72198,
+            "id": "minecraft:mud"
+        },
+        {
+            "item": "冰",
+            "x": -71803,
+            "genre": "natural",
+            "z": -72198,
+            "id": "minecraft:ice"
+        },
+        {
+            "item": "冰磚",
+            "x": -71802,
+            "genre": "natural",
+            "z": -72198,
+            "id": "minecraft:packed_ice"
+        },
+        {
+            "item": "藍冰",
+            "x": -71801,
+            "genre": "natural",
+            "z": -72198,
+            "id": "minecraft:blue_ice"
+        },
+        {
+            "item": "雪塊",
+            "x": -71800,
+            "genre": "natural",
+            "z": -72198,
+            "id": "minecraft:snow_block"
+        },
+        {
+            "item": "雪",
+            "x": -71799,
+            "genre": "natural",
+            "z": -72198,
+            "id": "minecraft:snow"
+        },
+        {
+            "item": "苔蘚方塊",
+            "x": -71798,
+            "genre": "natural",
+            "z": -72198,
+            "id": "minecraft:moss_block"
+        },
+        {
+            "item": "覆地苔蘚",
+            "x": -71797,
+            "genre": "natural",
+            "z": -72198,
+            "id": "minecraft:moss_carpet"
+        },
+        {
+            "item": "方解石",
+            "x": -71796,
+            "genre": "natural",
+            "z": -72198,
+            "id": "minecraft:calcite"
+        },
+        {
+            "item": "凝灰岩",
+            "x": -71795,
+            "genre": "natural",
+            "z": -72198,
+            "id": "minecraft:tuff"
+        },
+        {
+            "item": "鐘乳石方塊",
+            "x": -71794,
+            "genre": "natural",
+            "z": -72198,
+            "id": "minecraft:dripstone_block"
+        },
+        {
+            "item": "鐘乳石",
+            "x": -71793,
+            "genre": "natural",
+            "z": -72198,
+            "id": "minecraft:pointed_dripstone"
+        },
+        {
+            "item": "地獄磚牆",
+            "x": -71808,
+            "genre": "building",
+            "z": -72191,
+            "id": "minecraft:nether_brick_wall"
+        },
+        {
+            "item": "紅地獄磚牆",
+            "x": -71807,
+            "genre": "building",
+            "z": -72191,
+            "id": "minecraft:red_nether_brick_wall"
+        },
+        {
+            "item": "黑石牆",
+            "x": -71806,
+            "genre": "building",
+            "z": -72191,
+            "id": "minecraft:blackstone_wall"
+        },
+        {
+            "item": "拋光黑石牆",
+            "x": -71805,
+            "genre": "building",
+            "z": -72191,
+            "id": "minecraft:polished_blackstone_wall"
+        },
+        {
+            "item": "拋光黑石磚牆",
+            "x": -71804,
+            "genre": "building",
+            "z": -72191,
+            "id": "minecraft:polished_blackstone_brick_wall"
+        },
+        {
+            "item": "終界石磚牆",
+            "x": -71803,
+            "genre": "building",
+            "z": -72191,
+            "id": "minecraft:end_stone_brick_wall"
+        },
+        {
+            "item": "懸掛式樺木告示牌",
+            "x": -71808,
+            "genre": "building",
+            "z": -72178,
+            "id": "minecraft:birch_hanging_sign"
+        },
+        {
+            "item": "懸掛式叢林木告示牌",
+            "x": -71807,
+            "genre": "building",
+            "z": -72178,
+            "id": "minecraft:jungle_hanging_sign"
+        },
+        {
+            "item": "懸掛式相思木告示牌",
+            "x": -71806,
+            "genre": "building",
+            "z": -72178,
+            "id": "minecraft:acacia_hanging_sign"
+        },
+        {
+            "item": "懸掛式黑橡木告示牌",
+            "x": -71805,
+            "genre": "building",
+            "z": -72178,
+            "id": "minecraft:dark_oak_hanging_sign"
+        },
+        {
+            "item": "懸掛式紅樹林木告示牌",
+            "x": -71804,
+            "genre": "building",
+            "z": -72178,
+            "id": "minecraft:mangrove_hanging_sign"
+        },
+        {
+            "item": "懸掛式櫻花木告示牌",
+            "x": -71803,
+            "genre": "building",
+            "z": -72178,
+            "id": "minecraft:cherry_hanging_sign"
+        },
+        {
+            "item": "懸掛式緋紅蕈木告示牌",
+            "x": -71802,
+            "genre": "building",
+            "z": -72178,
+            "id": "minecraft:crimson_hanging_sign"
+        },
+        {
+            "item": "懸掛式扭曲蕈木告示牌",
+            "x": -71801,
+            "genre": "building",
+            "z": -72178,
+            "id": "minecraft:warped_hanging_sign"
+        },
+        {
+            "item": "懸掛式竹告示牌",
+            "x": -71800,
+            "genre": "building",
+            "z": -72178,
+            "id": "minecraft:bamboo_hanging_sign"
+        },
+        {
+            "item": "櫻花木材",
+            "x": -71793,
+            "genre": "building",
+            "z": -72123,
+            "id": "minecraft:cherry_planks"
+        },
+        {
+            "item": "緋紅蕈木材",
+            "x": -71794,
+            "genre": "building",
+            "z": -72123,
+            "id": "minecraft:crimson_planks"
+        },
+        {
+            "item": "扭曲蕈木材",
+            "x": -71795,
+            "genre": "building",
+            "z": -72123,
+            "id": "minecraft:warped_planks"
+        },
+        {
+            "item": "竹材",
+            "x": -71796,
+            "genre": "building",
+            "z": -72123,
+            "id": "minecraft:bamboo_planks"
+        },
+        {
+            "item": "竹拼塊",
+            "x": -71797,
+            "genre": "building",
+            "z": -72123,
+            "id": "minecraft:bamboo_mosaic"
+        },
+        {
+            "item": "橡木階梯",
+            "x": -71798,
+            "genre": "building",
+            "z": -72123,
+            "id": "minecraft:oak_stairs"
+        },
+        {
+            "item": "杉木階梯",
+            "x": -71799,
+            "genre": "building",
+            "z": -72123,
+            "id": "minecraft:spruce_stairs"
+        },
+        {
+            "item": "樺木階梯",
+            "x": -71800,
+            "genre": "building",
+            "z": -72123,
+            "id": "minecraft:birch_stairs"
+        },
+        {
+            "item": "叢林木階梯",
+            "x": -71801,
+            "genre": "building",
+            "z": -72123,
+            "id": "minecraft:jungle_stairs"
+        },
+        {
+            "item": "相思木階梯",
+            "x": -71802,
+            "genre": "building",
+            "z": -72123,
+            "id": "minecraft:acacia_stairs"
+        },
+        {
+            "item": "黑橡木階梯",
+            "x": -71803,
+            "genre": "building",
+            "z": -72123,
+            "id": "minecraft:dark_oak_stairs"
+        },
+        {
+            "item": "紅樹林木階梯",
+            "x": -71804,
+            "genre": "building",
+            "z": -72123,
+            "id": "minecraft:mangrove_stairs"
+        },
+        {
+            "item": "櫻花木階梯",
+            "x": -71805,
+            "genre": "building",
+            "z": -72123,
+            "id": "minecraft:cherry_stairs"
+        },
+        {
+            "item": "緋紅蕈木階梯",
+            "x": -71806,
+            "genre": "building",
+            "z": -72123,
+            "id": "minecraft:crimson_stairs"
+        },
+        {
+            "item": "扭曲蕈木階梯",
+            "x": -71807,
+            "genre": "building",
+            "z": -72123,
+            "id": "minecraft:warped_stairs"
+        },
+        {
+            "item": "竹階梯",
+            "x": -71808,
+            "genre": "building",
+            "z": -72123,
+            "id": "minecraft:bamboo_stairs"
+        },
+        {
+            "item": "白色玻璃片",
+            "x": -71793,
+            "genre": "colored",
+            "z": -72103,
+            "id": "minecraft:white_stained_glass_pane"
+        },
+        {
+            "item": "玻璃片",
+            "x": -71794,
+            "genre": "colored",
+            "z": -72103,
+            "id": "minecraft:glass_pane"
+        },
+        {
+            "item": "遮光玻璃",
+            "x": -71795,
+            "genre": "colored",
+            "z": -72103,
+            "id": "minecraft:tinted_glass"
+        },
+        {
+            "item": "粉紅色玻璃",
+            "x": -71796,
+            "genre": "colored",
+            "z": -72103,
+            "id": "minecraft:pink_stained_glass"
+        },
+        {
+            "item": "洋紅色玻璃",
+            "x": -71797,
+            "genre": "colored",
+            "z": -72103,
+            "id": "minecraft:magenta_stained_glass"
+        },
+        {
+            "item": "紫色玻璃",
+            "x": -71798,
+            "genre": "colored",
+            "z": -72103,
+            "id": "minecraft:purple_stained_glass"
+        },
+        {
+            "item": "藍色玻璃",
+            "x": -71799,
+            "genre": "colored",
+            "z": -72103,
+            "id": "minecraft:blue_stained_glass"
+        },
+        {
+            "item": "淺藍色玻璃",
+            "x": -71800,
+            "genre": "colored",
+            "z": -72103,
+            "id": "minecraft:light_blue_stained_glass"
+        },
+        {
+            "item": "青色玻璃",
+            "x": -71801,
+            "genre": "colored",
+            "z": -72103,
+            "id": "minecraft:cyan_stained_glass"
+        },
+        {
+            "item": "綠色玻璃",
+            "x": -71802,
+            "genre": "colored",
+            "z": -72103,
+            "id": "minecraft:green_stained_glass"
+        },
+        {
+            "item": "淺綠色玻璃",
+            "x": -71803,
+            "genre": "colored",
+            "z": -72103,
+            "id": "minecraft:lime_stained_glass"
+        },
+        {
+            "item": "黃色玻璃",
+            "x": -71804,
+            "genre": "colored",
+            "z": -72103,
+            "id": "minecraft:yellow_stained_glass"
+        },
+        {
+            "item": "橙色玻璃",
+            "x": -71805,
+            "genre": "colored",
+            "z": -72103,
+            "id": "minecraft:orange_stained_glass"
+        },
+        {
+            "item": "紅色玻璃",
+            "x": -71806,
+            "genre": "colored",
+            "z": -72103,
+            "id": "minecraft:red_stained_glass"
+        },
+        {
+            "item": "棕色玻璃",
+            "x": -71807,
+            "genre": "colored",
+            "z": -72103,
+            "id": "minecraft:brown_stained_glass"
+        },
+        {
+            "item": "黑色玻璃",
+            "x": -71808,
+            "genre": "colored",
+            "z": -72103,
+            "id": "minecraft:black_stained_glass"
+        },
+        {
+            "item": "殭屍頭顱",
+            "x": -71793,
+            "genre": "functional",
+            "z": -72110,
+            "id": "minecraft:zombie_head"
+        },
+        {
+            "item": "豬布林頭顱",
+            "x": -71794,
+            "genre": "functional",
+            "z": -72110,
+            "id": "minecraft:piglin_head"
+        },
+        {
+            "item": "棕色旗幟",
+            "x": -71808,
+            "genre": "colored",
+            "z": -72110,
+            "id": "minecraft:brown_banner"
+        },
+        {
+            "item": "紅色旗幟",
+            "x": -71807,
+            "genre": "colored",
+            "z": -72110,
+            "id": "minecraft:red_banner"
+        },
+        {
+            "item": "橙色旗幟",
+            "x": -71806,
+            "genre": "colored",
+            "z": -72110,
+            "id": "minecraft:orange_banner"
+        },
+        {
+            "item": "黃色旗幟",
+            "x": -71805,
+            "genre": "colored",
+            "z": -72110,
+            "id": "minecraft:yellow_banner"
+        },
+        {
+            "item": "淺綠色旗幟",
+            "x": -71804,
+            "genre": "colored",
+            "z": -72110,
+            "id": "minecraft:lime_banner"
+        },
+        {
+            "item": "綠色旗幟",
+            "x": -71803,
+            "genre": "colored",
+            "z": -72110,
+            "id": "minecraft:green_banner"
+        },
+        {
+            "item": "青色旗幟",
+            "x": -71802,
+            "genre": "colored",
+            "z": -72110,
+            "id": "minecraft:cyan_banner"
+        },
+        {
+            "item": "淺藍色旗幟",
+            "x": -71801,
+            "genre": "colored",
+            "z": -72110,
+            "id": "minecraft:light_blue_banner"
+        },
+        {
+            "item": "藍色旗幟",
+            "x": -71800,
+            "genre": "colored",
+            "z": -72110,
+            "id": "minecraft:blue_banner"
+        },
+        {
+            "item": "紫色旗幟",
+            "x": -71799,
+            "genre": "colored",
+            "z": -72110,
+            "id": "minecraft:purple_banner"
+        },
+        {
+            "item": "洋紅色旗幟",
+            "x": -71798,
+            "genre": "colored",
+            "z": -72110,
+            "id": "minecraft:magenta_banner"
+        },
+        {
+            "item": "粉紅色旗幟",
+            "x": -71797,
+            "genre": "colored",
+            "z": -72110,
+            "id": "minecraft:pink_banner"
+        },
+        {
+            "item": "沒有放置過的不祥旗幟",
+            "genre": "functional",
+            "x": -71796,
+            "z": -72110,
+            "id": "minecraft:white_banner"
+        },
+        {
+            "item": "有放置過的不祥旗幟",
+            "genre": "functional",
+            "x": -71795,
+            "z": -72110,
+            "id": "minecraft:white_banner"
+        },
+        {
+            "item": "高爐",
+            "x": -71792,
+            "genre": "functional",
+            "z": -72211,
+            "id": "minecraft:blast_furnace"
+        },
+        {
+            "item": "營火",
+            "x": -71791,
+            "genre": "functional",
+            "z": -72211,
+            "id": "minecraft:campfire"
+        },
+        {
+            "item": "靈魂營火",
+            "x": -71790,
+            "genre": "functional",
+            "z": -72211,
+            "id": "minecraft:soul_campfire"
+        },
+        {
+            "item": "鐵砧",
+            "x": -71789,
+            "genre": "functional",
+            "z": -72211,
+            "id": "minecraft:anvil"
+        },
+        {
+            "item": "微損的鐵砧",
+            "x": -71788,
+            "genre": "functional",
+            "z": -72211,
+            "id": "minecraft:chipped_anvil"
+        },
+        {
+            "item": "耗損的鐵砧",
+            "x": -71787,
+            "genre": "functional",
+            "z": -72211,
+            "id": "minecraft:damaged_anvil"
+        },
+        {
+            "item": "堆肥箱",
+            "x": -71786,
+            "genre": "functional",
+            "z": -72211,
+            "id": "minecraft:composter"
+        },
+        {
+            "item": "附魔台",
+            "x": -71785,
+            "genre": "functional",
+            "z": -72211,
+            "id": "minecraft:enchanting_table"
+        },
+        {
+            "item": "玻璃",
+            "x": -71784,
+            "genre": "functional",
+            "z": -72211,
+            "id": "minecraft:glass"
+        },
+        {
+            "item": "釀造台",
+            "x": -71783,
+            "genre": "functional",
+            "z": -72211,
+            "id": "minecraft:brewing_stand"
+        },
+        {
+            "item": "鍋釜",
+            "x": -71782,
+            "genre": "functional",
+            "z": -72211,
+            "id": "minecraft:cauldron"
+        },
+        {
+            "item": "鐘",
+            "x": -71781,
+            "genre": "functional",
+            "z": -72211,
+            "id": "minecraft:bell"
+        },
+        {
+            "item": "烽火台",
+            "x": -71780,
+            "genre": "functional",
+            "z": -72211,
+            "id": "minecraft:beacon"
+        },
+        {
+            "item": "海靈核心",
+            "x": -71779,
+            "genre": "functional",
+            "z": -72211,
+            "id": "minecraft:conduit"
+        },
+        {
+            "item": "磁石",
+            "x": -71778,
+            "genre": "functional",
+            "z": -72211,
+            "id": "minecraft:lodestone"
+        },
+        {
+            "item": "梯子",
+            "x": -71777,
+            "genre": "functional",
+            "z": -72211,
+            "id": "minecraft:ladder"
+        },
+        {
+            "item": "岩漿塊",
+            "x": -71792,
+            "genre": "natural",
+            "z": -72198,
+            "id": "minecraft:magma_block"
+        },
+        {
+            "item": "黑曜石",
+            "x": -71791,
+            "genre": "natural",
+            "z": -72198,
+            "id": "minecraft:obsidian"
+        },
+        {
+            "item": "哭泣的黑曜石",
+            "x": -71790,
+            "genre": "natural",
+            "z": -72198,
+            "id": "minecraft:crying_obsidian"
+        },
+        {
+            "item": "緋紅菌絲石",
+            "x": -71789,
+            "genre": "natural",
+            "z": -72198,
+            "id": "minecraft:crimson_nylium"
+        },
+        {
+            "item": "扭曲菌絲石",
+            "x": -71788,
+            "genre": "natural",
+            "z": -72198,
+            "id": "minecraft:warped_nylium"
+        },
+        {
+            "item": "靈魂砂",
+            "x": -71787,
+            "genre": "natural",
+            "z": -72198,
+            "id": "minecraft:soul_sand"
+        },
+        {
+            "item": "靈魂土",
+            "x": -71786,
+            "genre": "natural",
+            "z": -72198,
+            "id": "minecraft:soul_soil"
+        },
+        {
+            "item": "骨塊",
+            "x": -71785,
+            "genre": "natural",
+            "z": -72198,
+            "id": "minecraft:bone_block"
+        },
+        {
+            "item": "紅樹林木根",
+            "x": -71784,
+            "genre": "natural",
+            "z": -72198,
+            "id": "minecraft:mangrove_roots"
+        },
+        {
+            "item": "淤泥紅樹林木根",
+            "x": -71783,
+            "genre": "natural",
+            "z": -72198,
+            "id": "minecraft:muddy_mangrove_roots"
+        },
+        {
+            "item": "蘑菇柄",
+            "x": -71782,
+            "genre": "natural",
+            "z": -72198,
+            "id": "minecraft:mushroom_stem"
+        },
+        {
+            "item": "橡木樹葉",
+            "x": -71781,
+            "genre": "natural",
+            "z": -72198,
+            "id": "minecraft:oak_leaves"
+        },
+        {
+            "item": "杉木樹葉",
+            "x": -71780,
+            "genre": "natural",
+            "z": -72198,
+            "id": "minecraft:spruce_leaves"
+        },
+        {
+            "item": "樺木樹葉",
+            "x": -71779,
+            "genre": "natural",
+            "z": -72198,
+            "id": "minecraft:birch_leaves"
+        },
+        {
+            "item": "叢林木樹葉",
+            "x": -71778,
+            "genre": "natural",
+            "z": -72198,
+            "id": "minecraft:jungle_leaves"
+        },
+        {
+            "item": "相思木樹葉",
+            "x": -71777,
+            "genre": "natural",
+            "z": -72198,
+            "id": "minecraft:acacia_leaves"
+        },
+        {
+            "item": "橡木原木",
+            "x": -71789,
+            "genre": "building",
+            "z": -72177,
+            "id": "minecraft:oak_log"
+        },
+        {
+            "item": "杉木原木",
+            "x": -71789,
+            "genre": "building",
+            "z": -72176,
+            "id": "minecraft:spruce_log"
+        },
+        {
+            "item": "樺木原木",
+            "x": -71789,
+            "genre": "building",
+            "z": -72175,
+            "id": "minecraft:birch_log"
+        },
+        {
+            "item": "叢林木原木",
+            "x": -71789,
+            "genre": "building",
+            "z": -72174,
+            "id": "minecraft:jungle_log"
+        },
+        {
+            "item": "相思木原木",
+            "x": -71789,
+            "genre": "building",
+            "z": -72173,
+            "id": "minecraft:acacia_log"
+        },
+        {
+            "item": "黑橡木原木",
+            "x": -71789,
+            "genre": "building",
+            "z": -72172,
+            "id": "minecraft:dark_oak_log"
+        },
+        {
+            "item": "紅樹林木原木",
+            "x": -71789,
+            "genre": "building",
+            "z": -72171,
+            "id": "minecraft:mangrove_log"
+        },
+        {
+            "item": "櫻花木原木",
+            "x": -71789,
+            "genre": "building",
+            "z": -72170,
+            "id": "minecraft:cherry_log"
+        },
+        {
+            "item": "緋紅蕈柄",
+            "x": -71789,
+            "genre": "building",
+            "z": -72169,
+            "id": "minecraft:crimson_stem"
+        },
+        {
+            "item": "扭曲蕈柄",
+            "x": -71789,
+            "genre": "building",
+            "z": -72168,
+            "id": "minecraft:warped_stem"
+        },
+        {
+            "item": "竹方塊",
+            "x": -71789,
+            "genre": "building",
+            "z": -72167,
+            "id": "minecraft:bamboo_block"
+        },
+        {
+            "item": "橡木塊",
+            "x": -71789,
+            "genre": "building",
+            "z": -72166,
+            "id": "minecraft:oak_wood"
+        },
+        {
+            "item": "杉木塊",
+            "x": -71789,
+            "genre": "building",
+            "z": -72165,
+            "id": "minecraft:spruce_wood"
+        },
+        {
+            "item": "樺木塊",
+            "x": -71789,
+            "genre": "building",
+            "z": -72164,
+            "id": "minecraft:birch_wood"
+        },
+        {
+            "item": "叢林木塊",
+            "x": -71789,
+            "genre": "building",
+            "z": -72163,
+            "id": "minecraft:jungle_wood"
+        },
+        {
+            "item": "相思木塊",
+            "x": -71789,
+            "genre": "building",
+            "z": -72162,
+            "id": "minecraft:acacia_wood"
+        },
+        {
+            "item": "黑橡木塊",
+            "x": -71789,
+            "genre": "building",
+            "z": -72161,
+            "id": "minecraft:dark_oak_wood"
+        },
+        {
+            "item": "紅樹林木塊",
+            "x": -71789,
+            "genre": "building",
+            "z": -72160,
+            "id": "minecraft:mangrove_wood"
+        },
+        {
+            "item": "櫻花木塊",
+            "x": -71789,
+            "genre": "building",
+            "z": -72159,
+            "id": "minecraft:cherry_wood"
+        },
+        {
+            "item": "緋紅菌絲體",
+            "x": -71789,
+            "genre": "building",
+            "z": -72158,
+            "id": "minecraft:crimson_hyphae"
+        },
+        {
+            "item": "扭曲菌絲體",
+            "x": -71789,
+            "genre": "building",
+            "z": -72157,
+            "id": "minecraft:warped_hyphae"
+        },
+        {
+            "item": "剝皮橡木原木",
+            "x": -71789,
+            "genre": "building",
+            "z": -72156,
+            "id": "minecraft:stripped_oak_log"
+        },
+        {
+            "item": "剝皮杉木原木",
+            "x": -71789,
+            "genre": "building",
+            "z": -72155,
+            "id": "minecraft:stripped_spruce_log"
+        },
+        {
+            "item": "剝皮樺木原木",
+            "x": -71789,
+            "genre": "building",
+            "z": -72146,
+            "id": "minecraft:stripped_birch_log"
+        },
+        {
+            "item": "剝皮叢林木原木",
+            "x": -71789,
+            "genre": "building",
+            "z": -72145,
+            "id": "minecraft:stripped_jungle_log"
+        },
+        {
+            "item": "剝皮相思木原木",
+            "x": -71789,
+            "genre": "building",
+            "z": -72144,
+            "id": "minecraft:stripped_acacia_log"
+        },
+        {
+            "item": "剝皮黑橡木原木",
+            "x": -71789,
+            "genre": "building",
+            "z": -72143,
+            "id": "minecraft:stripped_dark_oak_log"
+        },
+        {
+            "item": "剝皮紅樹林木原木",
+            "x": -71789,
+            "genre": "building",
+            "z": -72142,
+            "id": "minecraft:stripped_mangrove_log"
+        },
+        {
+            "item": "剝皮櫻花木原木",
+            "x": -71789,
+            "genre": "building",
+            "z": -72141,
+            "id": "minecraft:stripped_cherry_log"
+        },
+        {
+            "item": "剝皮緋紅蕈柄",
+            "x": -71789,
+            "genre": "building",
+            "z": -72140,
+            "id": "minecraft:stripped_crimson_stem"
+        },
+        {
+            "item": "剝皮扭曲蕈柄",
+            "x": -71789,
+            "genre": "building",
+            "z": -72139,
+            "id": "minecraft:stripped_warped_stem"
+        },
+        {
+            "item": "剝皮竹方塊",
+            "x": -71789,
+            "genre": "building",
+            "z": -72138,
+            "id": "minecraft:stripped_bamboo_block"
+        },
+        {
+            "item": "剝皮橡木塊",
+            "x": -71789,
+            "genre": "building",
+            "z": -72137,
+            "id": "minecraft:stripped_oak_wood"
+        },
+        {
+            "item": "剝皮杉木塊",
+            "x": -71789,
+            "genre": "building",
+            "z": -72136,
+            "id": "minecraft:stripped_spruce_wood"
+        },
+        {
+            "item": "剝皮樺木塊",
+            "x": -71789,
+            "genre": "building",
+            "z": -72135,
+            "id": "minecraft:stripped_birch_wood"
+        },
+        {
+            "item": "剝皮叢林木塊",
+            "x": -71789,
+            "genre": "building",
+            "z": -72134,
+            "id": "minecraft:stripped_jungle_wood"
+        },
+        {
+            "item": "剝皮相思木塊",
+            "x": -71789,
+            "genre": "building",
+            "z": -72133,
+            "id": "minecraft:stripped_acacia_wood"
+        },
+        {
+            "item": "剝皮黑橡木塊",
+            "x": -71789,
+            "genre": "building",
+            "z": -72132,
+            "id": "minecraft:stripped_dark_oak_wood"
+        },
+        {
+            "item": "剝皮紅樹林木塊",
+            "x": -71789,
+            "genre": "building",
+            "z": -72131,
+            "id": "minecraft:stripped_mangrove_wood"
+        },
+        {
+            "item": "剝皮櫻花木塊",
+            "x": -71789,
+            "genre": "building",
+            "z": -72130,
+            "id": "minecraft:stripped_cherry_wood"
+        },
+        {
+            "item": "剝皮緋紅菌絲體",
+            "x": -71789,
+            "genre": "building",
+            "z": -72129,
+            "id": "minecraft:stripped_crimson_hyphae"
+        },
+        {
+            "item": "剝皮扭曲菌絲體",
+            "x": -71789,
+            "genre": "building",
+            "z": -72128,
+            "id": "minecraft:stripped_warped_hyphae"
+        },
+        {
+            "item": "橡木材",
+            "x": -71789,
+            "genre": "building",
+            "z": -72127,
+            "id": "minecraft:oak_planks"
+        },
+        {
+            "item": "杉木材",
+            "x": -71789,
+            "genre": "building",
+            "z": -72126,
+            "id": "minecraft:spruce_planks"
+        },
+        {
+            "item": "樺木材",
+            "x": -71789,
+            "genre": "building",
+            "z": -72125,
+            "id": "minecraft:birch_planks"
+        },
+        {
+            "item": "叢林木材",
+            "x": -71789,
+            "genre": "building",
+            "z": -72124,
+            "id": "minecraft:jungle_planks"
+        },
+        {
+            "item": "相思木材",
+            "x": -71790,
+            "genre": "building",
+            "z": -72123,
+            "id": "minecraft:acacia_planks"
+        },
+        {
+            "item": "黑橡木材",
+            "x": -71791,
+            "genre": "building",
+            "z": -72123,
+            "id": "minecraft:dark_oak_planks"
+        },
+        {
+            "item": "紅樹林木材",
+            "x": -71792,
+            "genre": "building",
+            "z": -72123,
+            "id": "minecraft:mangrove_planks"
+        },
+        {
+            "item": "粉紅色玻璃片",
+            "x": -71778,
+            "genre": "colored",
+            "z": -72103,
+            "id": "minecraft:pink_stained_glass_pane"
+        },
+        {
+            "item": "洋紅色玻璃片",
+            "x": -71779,
+            "genre": "colored",
+            "z": -72103,
+            "id": "minecraft:magenta_stained_glass_pane"
+        },
+        {
+            "item": "紫色玻璃片",
+            "x": -71780,
+            "genre": "colored",
+            "z": -72103,
+            "id": "minecraft:purple_stained_glass_pane"
+        },
+        {
+            "item": "藍色玻璃片",
+            "x": -71781,
+            "genre": "colored",
+            "z": -72103,
+            "id": "minecraft:blue_stained_glass_pane"
+        },
+        {
+            "item": "淺藍色玻璃片",
+            "x": -71782,
+            "genre": "colored",
+            "z": -72103,
+            "id": "minecraft:light_blue_stained_glass_pane"
+        },
+        {
+            "item": "青色玻璃片",
+            "x": -71783,
+            "genre": "colored",
+            "z": -72103,
+            "id": "minecraft:cyan_stained_glass_pane"
+        },
+        {
+            "item": "綠色玻璃片",
+            "x": -71784,
+            "genre": "colored",
+            "z": -72103,
+            "id": "minecraft:green_stained_glass_pane"
+        },
+        {
+            "item": "淺綠色玻璃片",
+            "x": -71785,
+            "genre": "colored",
+            "z": -72103,
+            "id": "minecraft:lime_stained_glass_pane"
+        },
+        {
+            "item": "黃色玻璃片",
+            "x": -71786,
+            "genre": "colored",
+            "z": -72103,
+            "id": "minecraft:yellow_stained_glass_pane"
+        },
+        {
+            "item": "橙色玻璃片",
+            "x": -71787,
+            "genre": "colored",
+            "z": -72103,
+            "id": "minecraft:orange_stained_glass_pane"
+        },
+        {
+            "item": "紅色玻璃片",
+            "x": -71788,
+            "genre": "colored",
+            "z": -72103,
+            "id": "minecraft:red_stained_glass_pane"
+        },
+        {
+            "item": "棕色玻璃片",
+            "x": -71789,
+            "genre": "colored",
+            "z": -72103,
+            "id": "minecraft:brown_stained_glass_pane"
+        },
+        {
+            "item": "黑色玻璃片",
+            "x": -71790,
+            "genre": "colored",
+            "z": -72103,
+            "id": "minecraft:black_stained_glass_pane"
+        },
+        {
+            "item": "灰色玻璃片",
+            "x": -71791,
+            "genre": "colored",
+            "z": -72103,
+            "id": "minecraft:gray_stained_glass_pane"
+        },
+        {
+            "item": "淺灰色玻璃片",
+            "x": -71792,
+            "genre": "colored",
+            "z": -72103,
+            "id": "minecraft:light_gray_stained_glass_pane"
+        },
+        {
+            "item": "龍首",
+            "x": -71789,
+            "genre": "functional",
+            "z": -72110,
+            "id": "minecraft:dragon_head"
+        },
+        {
+            "item": "苦力怕頭顱",
+            "x": -71790,
+            "genre": "functional",
+            "z": -72110,
+            "id": "minecraft:creeper_head"
+        },
+        {
+            "item": "凋零骷髏頭顱",
+            "x": -71791,
+            "genre": "functional",
+            "z": -72110,
+            "id": "minecraft:wither_skeleton_skull"
+        },
+        {
+            "item": "骷髏頭顱",
+            "x": -71792,
+            "genre": "functional",
+            "z": -72110,
+            "id": "minecraft:skeleton_skull"
+        },
+        {
+            "item": "鷹架",
+            "x": -71776,
+            "genre": "functional",
+            "z": -72211,
+            "id": "minecraft:scaffolding"
+        },
+        {
+            "item": "避雷針",
+            "x": -71775,
+            "genre": "functional",
+            "z": -72211,
+            "id": "minecraft:lightning_rod"
+        },
+        {
+            "item": "花盆",
+            "x": -71774,
+            "genre": "functional",
+            "z": -72211,
+            "id": "minecraft:flower_pot"
+        },
+        {
+            "item": "飾紋陶罐",
+            "x": -71773,
+            "genre": "functional",
+            "z": -72211,
+            "id": "minecraft:decorated_pot"
+        },
+        {
+            "item": "物品展示框",
+            "x": -71772,
+            "genre": "functional",
+            "z": -72211,
+            "id": "minecraft:item_frame"
+        },
+        {
+            "item": "螢光物品展示框",
+            "x": -71771,
+            "genre": "functional",
+            "z": -72211,
+            "id": "minecraft:glow_item_frame"
+        },
+        {
+            "item": "繪畫",
+            "x": -71770,
+            "genre": "functional",
+            "z": -72211,
+            "id": "minecraft:painting"
+        },
+        {
+            "item": "書櫃",
+            "x": -71769,
+            "genre": "functional",
+            "z": -72211,
+            "id": "minecraft:bookshelf"
+        },
+        {
+            "item": "浮雕書櫃",
+            "x": -71768,
+            "genre": "functional",
+            "z": -72211,
+            "id": "minecraft:chiseled_bookshelf"
+        },
+        {
+            "item": "講台",
+            "x": -71767,
+            "genre": "functional",
+            "z": -72211,
+            "id": "minecraft:lectern"
+        },
+        {
+            "item": "儲物箱",
+            "x": -71766,
+            "genre": "functional",
+            "z": -72211,
+            "id": "minecraft:chest"
+        },
+        {
+            "item": "木桶",
+            "x": -71765,
+            "genre": "functional",
+            "z": -72211,
+            "id": "minecraft:barrel"
+        },
+        {
+            "item": "終界箱",
+            "x": -71764,
+            "genre": "functional",
+            "z": -72211,
+            "id": "minecraft:ender_chest"
+        },
+        {
+            "item": "重生錨",
+            "x": -71763,
+            "genre": "functional",
+            "z": -72211,
+            "id": "minecraft:respawn_anchor"
+        },
+        {
+            "item": "黑橡木樹葉",
+            "x": -71776,
+            "genre": "natural",
+            "z": -72198,
+            "id": "minecraft:dark_oak_leaves"
+        },
+        {
+            "item": "紅樹林木樹葉",
+            "x": -71775,
+            "genre": "natural",
+            "z": -72198,
+            "id": "minecraft:mangrove_leaves"
+        },
+        {
+            "item": "櫻花木樹葉",
+            "x": -71774,
+            "genre": "natural",
+            "z": -72198,
+            "id": "minecraft:cherry_leaves"
+        },
+        {
+            "item": "杜鵑葉",
+            "x": -71773,
+            "genre": "natural",
+            "z": -72198,
+            "id": "minecraft:azalea_leaves"
+        },
+        {
+            "item": "開花的杜鵑葉",
+            "x": -71772,
+            "genre": "natural",
+            "z": -72198,
+            "id": "minecraft:flowering_azalea_leaves"
+        },
+        {
+            "item": "棕色蘑菇方塊",
+            "x": -71771,
+            "genre": "natural",
+            "z": -72198,
+            "id": "minecraft:brown_mushroom_block"
+        },
+        {
+            "item": "紅色蘑菇方塊",
+            "x": -71770,
+            "genre": "natural",
+            "z": -72198,
+            "id": "minecraft:red_mushroom_block"
+        },
+        {
+            "item": "地獄疙瘩塊",
+            "x": -71769,
+            "genre": "natural",
+            "z": -72197,
+            "id": "minecraft:nether_wart_block"
+        },
+        {
+            "item": "扭曲疙瘩塊",
+            "x": -71769,
+            "genre": "natural",
+            "z": -72196,
+            "id": "minecraft:warped_wart_block"
+        },
+        {
+            "item": "海綿",
+            "x": -71769,
+            "genre": "natural",
+            "z": -72195,
+            "id": "minecraft:sponge"
+        },
+        {
+            "item": "濕海綿",
+            "x": -71769,
+            "genre": "natural",
+            "z": -72194,
+            "id": "minecraft:wet_sponge"
+        },
+        {
+            "item": "伏聆",
+            "x": -71769,
+            "genre": "natural",
+            "z": -72193,
+            "id": "minecraft:sculk"
+        },
+        {
+            "item": "伏聆脈絡",
+            "genre": "natural",
+            "x": -71769,
+            "z": -72192,
+            "id": "minecraft:sculk_vein"
+        },
+        {
+            "item": "伏聆觸媒",
+            "x": -71769,
+            "genre": "natural",
+            "z": -72191,
+            "id": "minecraft:sculk_catalyst"
+        },
+        {
+            "item": "伏聆嘯口",
+            "x": -71769,
+            "genre": "natural",
+            "z": -72190,
+            "id": "minecraft:sculk_shrieker"
+        },
+        {
+            "item": "蜘蛛網",
+            "x": -71769,
+            "genre": "natural",
+            "z": -72189,
+            "id": "minecraft:cobweb"
+        },
+        {
+            "item": "粉紅色地毯",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72186,
+            "id": "minecraft:pink_carpet"
+        },
+        {
+            "item": "洋紅色地毯",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72185,
+            "id": "minecraft:magenta_carpet"
+        },
+        {
+            "item": "紫色地毯",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72184,
+            "id": "minecraft:purple_carpet"
+        },
+        {
+            "item": "藍色地毯",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72183,
+            "id": "minecraft:blue_carpet"
+        },
+        {
+            "item": "淺藍色地毯",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72182,
+            "id": "minecraft:light_blue_carpet"
+        },
+        {
+            "item": "青色地毯",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72181,
+            "id": "minecraft:cyan_carpet"
+        },
+        {
+            "item": "綠色地毯",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72180,
+            "id": "minecraft:green_carpet"
+        },
+        {
+            "item": "淺綠色地毯",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72179,
+            "id": "minecraft:lime_carpet"
+        },
+        {
+            "item": "黃色地毯",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72178,
+            "id": "minecraft:yellow_carpet"
+        },
+        {
+            "item": "橙色地毯",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72177,
+            "id": "minecraft:orange_carpet"
+        },
+        {
+            "item": "紅色地毯",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72176,
+            "id": "minecraft:red_carpet"
+        },
+        {
+            "item": "棕色地毯",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72175,
+            "id": "minecraft:brown_carpet"
+        },
+        {
+            "item": "黑色地毯",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72174,
+            "id": "minecraft:black_carpet"
+        },
+        {
+            "item": "灰色地毯",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72173,
+            "id": "minecraft:gray_carpet"
+        },
+        {
+            "item": "淺灰色地毯",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72172,
+            "id": "minecraft:light_gray_carpet"
+        },
+        {
+            "item": "白色地毯",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72171,
+            "id": "minecraft:white_carpet"
+        },
+        {
+            "item": "粉紅色羊毛",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72170,
+            "id": "minecraft:pink_wool"
+        },
+        {
+            "item": "洋紅色羊毛",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72169,
+            "id": "minecraft:magenta_wool"
+        },
+        {
+            "item": "紫色羊毛",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72168,
+            "id": "minecraft:purple_wool"
+        },
+        {
+            "item": "藍色羊毛",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72167,
+            "id": "minecraft:blue_wool"
+        },
+        {
+            "item": "淺藍色羊毛",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72166,
+            "id": "minecraft:light_blue_wool"
+        },
+        {
+            "item": "青色羊毛",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72165,
+            "id": "minecraft:cyan_wool"
+        },
+        {
+            "item": "綠色羊毛",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72164,
+            "id": "minecraft:green_wool"
+        },
+        {
+            "item": "淺綠色羊毛",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72163,
+            "id": "minecraft:lime_wool"
+        },
+        {
+            "item": "黃色羊毛",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72162,
+            "id": "minecraft:yellow_wool"
+        },
+        {
+            "item": "橙色羊毛",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72161,
+            "id": "minecraft:orange_wool"
+        },
+        {
+            "item": "紅色陶土",
+            "x": -71776,
+            "genre": "colored",
+            "z": -72161,
+            "id": "minecraft:red_terracotta"
+        },
+        {
+            "item": "橙色陶土",
+            "x": -71776,
+            "genre": "colored",
+            "z": -72162,
+            "id": "minecraft:orange_terracotta"
+        },
+        {
+            "item": "黃色陶土",
+            "x": -71776,
+            "genre": "colored",
+            "z": -72163,
+            "id": "minecraft:yellow_terracotta"
+        },
+        {
+            "item": "淺綠色陶土",
+            "x": -71776,
+            "genre": "colored",
+            "z": -72164,
+            "id": "minecraft:lime_terracotta"
+        },
+        {
+            "item": "綠色陶土",
+            "x": -71776,
+            "genre": "colored",
+            "z": -72165,
+            "id": "minecraft:green_terracotta"
+        },
+        {
+            "item": "青色陶土",
+            "x": -71776,
+            "genre": "colored",
+            "z": -72166,
+            "id": "minecraft:cyan_terracotta"
+        },
+        {
+            "item": "淺藍色陶土",
+            "x": -71776,
+            "genre": "colored",
+            "z": -72167,
+            "id": "minecraft:light_blue_terracotta"
+        },
+        {
+            "item": "藍色陶土",
+            "x": -71776,
+            "genre": "colored",
+            "z": -72168,
+            "id": "minecraft:blue_terracotta"
+        },
+        {
+            "item": "紫色陶土",
+            "x": -71776,
+            "genre": "colored",
+            "z": -72169,
+            "id": "minecraft:purple_terracotta"
+        },
+        {
+            "item": "洋紅色陶土",
+            "x": -71776,
+            "genre": "colored",
+            "z": -72170,
+            "id": "minecraft:magenta_terracotta"
+        },
+        {
+            "item": "粉紅色陶土",
+            "x": -71776,
+            "genre": "colored",
+            "z": -72171,
+            "id": "minecraft:pink_terracotta"
+        },
+        {
+            "item": "紅色羊毛",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72160,
+            "id": "minecraft:red_wool"
+        },
+        {
+            "item": "棕色羊毛",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72159,
+            "id": "minecraft:brown_wool"
+        },
+        {
+            "item": "黑色羊毛",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72158,
+            "id": "minecraft:black_wool"
+        },
+        {
+            "item": "灰色羊毛",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72157,
+            "id": "minecraft:gray_wool"
+        },
+        {
+            "item": "淺灰色羊毛",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72156,
+            "id": "minecraft:light_gray_wool"
+        },
+        {
+            "item": "白色羊毛",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72155,
+            "id": "minecraft:white_wool"
+        },
+        {
+            "item": "陶土",
+            "x": -71776,
+            "genre": "colored",
+            "z": -72155,
+            "id": "minecraft:terracotta"
+        },
+        {
+            "item": "白色陶土",
+            "x": -71776,
+            "genre": "colored",
+            "z": -72156,
+            "id": "minecraft:white_terracotta"
+        },
+        {
+            "item": "淺灰色陶土",
+            "x": -71776,
+            "genre": "colored",
+            "z": -72157,
+            "id": "minecraft:light_gray_terracotta"
+        },
+        {
+            "item": "灰色陶土",
+            "x": -71776,
+            "genre": "colored",
+            "z": -72158,
+            "id": "minecraft:gray_terracotta"
+        },
+        {
+            "item": "黑色陶土",
+            "x": -71776,
+            "genre": "colored",
+            "z": -72159,
+            "id": "minecraft:black_terracotta"
+        },
+        {
+            "item": "棕色陶土",
+            "x": -71776,
+            "genre": "colored",
+            "z": -72160,
+            "id": "minecraft:brown_terracotta"
+        },
+        {
+            "item": "白色混凝土",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72146,
+            "id": "minecraft:white_concrete"
+        },
+        {
+            "item": "淺灰色混凝土",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72145,
+            "id": "minecraft:light_gray_concrete"
+        },
+        {
+            "item": "白色釉陶",
+            "x": -71776,
+            "genre": "colored",
+            "z": -72146,
+            "id": "minecraft:white_glazed_terracotta"
+        },
+        {
+            "item": "淺灰色釉陶",
+            "x": -71776,
+            "genre": "colored",
+            "z": -72145,
+            "id": "minecraft:light_gray_glazed_terracotta"
+        },
+        {
+            "item": "灰色混凝土",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72144,
+            "id": "minecraft:gray_concrete"
+        },
+        {
+            "item": "黑色混凝土",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72143,
+            "id": "minecraft:black_concrete"
+        },
+        {
+            "item": "棕色混凝土",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72142,
+            "id": "minecraft:brown_concrete"
+        },
+        {
+            "item": "紅色混凝土",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72141,
+            "id": "minecraft:red_concrete"
+        },
+        {
+            "item": "橙色混凝土",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72140,
+            "id": "minecraft:orange_concrete"
+        },
+        {
+            "item": "黃色混凝土",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72139,
+            "id": "minecraft:yellow_concrete"
+        },
+        {
+            "item": "淺綠色混凝土",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72138,
+            "id": "minecraft:lime_concrete"
+        },
+        {
+            "item": "綠色混凝土",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72137,
+            "id": "minecraft:green_concrete"
+        },
+        {
+            "item": "青色混凝土",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72136,
+            "id": "minecraft:cyan_concrete"
+        },
+        {
+            "item": "淺藍色混凝土",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72135,
+            "id": "minecraft:light_blue_concrete"
+        },
+        {
+            "item": "藍色混凝土",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72134,
+            "id": "minecraft:blue_concrete"
+        },
+        {
+            "item": "紫色混凝土",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72133,
+            "id": "minecraft:purple_concrete"
+        },
+        {
+            "item": "洋紅色混凝土",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72132,
+            "id": "minecraft:magenta_concrete"
+        },
+        {
+            "item": "粉紅色混凝土",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72131,
+            "id": "minecraft:pink_concrete"
+        },
+        {
+            "item": "白色混凝土粉末",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72130,
+            "id": "minecraft:white_concrete_powder"
+        },
+        {
+            "item": "淺灰色混凝土粉末",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72129,
+            "id": "minecraft:light_gray_concrete_powder"
+        },
+        {
+            "item": "灰色釉陶",
+            "x": -71776,
+            "genre": "colored",
+            "z": -72144,
+            "id": "minecraft:gray_glazed_terracotta"
+        },
+        {
+            "item": "黑色釉陶",
+            "x": -71776,
+            "genre": "colored",
+            "z": -72143,
+            "id": "minecraft:black_glazed_terracotta"
+        },
+        {
+            "item": "棕色釉陶",
+            "x": -71776,
+            "genre": "colored",
+            "z": -72142,
+            "id": "minecraft:brown_glazed_terracotta"
+        },
+        {
+            "item": "紅色釉陶",
+            "x": -71776,
+            "genre": "colored",
+            "z": -72141,
+            "id": "minecraft:red_glazed_terracotta"
+        },
+        {
+            "item": "橙色釉陶",
+            "x": -71776,
+            "genre": "colored",
+            "z": -72140,
+            "id": "minecraft:orange_glazed_terracotta"
+        },
+        {
+            "item": "黃色釉陶",
+            "x": -71776,
+            "genre": "colored",
+            "z": -72139,
+            "id": "minecraft:yellow_glazed_terracotta"
+        },
+        {
+            "item": "淺綠色釉陶",
+            "x": -71776,
+            "genre": "colored",
+            "z": -72138,
+            "id": "minecraft:lime_glazed_terracotta"
+        },
+        {
+            "item": "綠色釉陶",
+            "x": -71776,
+            "genre": "colored",
+            "z": -72137,
+            "id": "minecraft:green_glazed_terracotta"
+        },
+        {
+            "item": "青色釉陶",
+            "x": -71776,
+            "genre": "colored",
+            "z": -72136,
+            "id": "minecraft:cyan_glazed_terracotta"
+        },
+        {
+            "item": "淺藍色釉陶",
+            "x": -71776,
+            "genre": "colored",
+            "z": -72135,
+            "id": "minecraft:light_blue_glazed_terracotta"
+        },
+        {
+            "item": "藍色釉陶",
+            "x": -71776,
+            "genre": "colored",
+            "z": -72134,
+            "id": "minecraft:blue_glazed_terracotta"
+        },
+        {
+            "item": "紫色釉陶",
+            "x": -71776,
+            "genre": "colored",
+            "z": -72133,
+            "id": "minecraft:purple_glazed_terracotta"
+        },
+        {
+            "item": "洋紅色釉陶",
+            "x": -71776,
+            "genre": "colored",
+            "z": -72132,
+            "id": "minecraft:magenta_glazed_terracotta"
+        },
+        {
+            "item": "粉紅色釉陶",
+            "x": -71776,
+            "genre": "colored",
+            "z": -72131,
+            "id": "minecraft:pink_glazed_terracotta"
+        },
+        {
+            "item": "淺灰色染料",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72113,
+            "id": "minecraft:light_gray_dye"
+        },
+        {
+            "item": "白色染料",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72114,
+            "id": "minecraft:white_dye"
+        },
+        {
+            "item": "灰色混凝土粉末",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72128,
+            "id": "minecraft:gray_concrete_powder"
+        },
+        {
+            "item": "黑色混凝土粉末",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72127,
+            "id": "minecraft:black_concrete_powder"
+        },
+        {
+            "item": "棕色混凝土粉末",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72126,
+            "id": "minecraft:brown_concrete_powder"
+        },
+        {
+            "item": "紅色混凝土粉末",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72125,
+            "id": "minecraft:red_concrete_powder"
+        },
+        {
+            "item": "橙色混凝土粉末",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72124,
+            "id": "minecraft:orange_concrete_powder"
+        },
+        {
+            "item": "黃色混凝土粉末",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72123,
+            "id": "minecraft:yellow_concrete_powder"
+        },
+        {
+            "item": "淺綠色混凝土粉末",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72122,
+            "id": "minecraft:lime_concrete_powder"
+        },
+        {
+            "item": "綠色混凝土粉末",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72121,
+            "id": "minecraft:green_concrete_powder"
+        },
+        {
+            "item": "青色混凝土粉末",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72120,
+            "id": "minecraft:cyan_concrete_powder"
+        },
+        {
+            "item": "淺藍色混凝土粉末",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72119,
+            "id": "minecraft:light_blue_concrete_powder"
+        },
+        {
+            "item": "藍色混凝土粉末",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72118,
+            "id": "minecraft:blue_concrete_powder"
+        },
+        {
+            "item": "紫色混凝土粉末",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72117,
+            "id": "minecraft:purple_concrete_powder"
+        },
+        {
+            "item": "洋紅色混凝土粉末",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72116,
+            "id": "minecraft:magenta_concrete_powder"
+        },
+        {
+            "item": "粉紅色混凝土粉末",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72115,
+            "id": "minecraft:pink_concrete_powder"
+        },
+        {
+            "item": "粉紅色染料",
+            "x": -71774,
+            "genre": "colored",
+            "z": -72103,
+            "id": "minecraft:pink_dye"
+        },
+        {
+            "item": "洋紅色染料",
+            "x": -71773,
+            "genre": "colored",
+            "z": -72103,
+            "id": "minecraft:magenta_dye"
+        },
+        {
+            "item": "紫色染料",
+            "x": -71772,
+            "genre": "colored",
+            "z": -72103,
+            "id": "minecraft:purple_dye"
+        },
+        {
+            "item": "藍色染料",
+            "x": -71771,
+            "genre": "colored",
+            "z": -72103,
+            "id": "minecraft:blue_dye"
+        },
+        {
+            "item": "淺藍色染料",
+            "x": -71770,
+            "genre": "colored",
+            "z": -72103,
+            "id": "minecraft:light_blue_dye"
+        },
+        {
+            "item": "青色染料",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72104,
+            "id": "minecraft:cyan_dye"
+        },
+        {
+            "item": "綠色染料",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72105,
+            "id": "minecraft:green_dye"
+        },
+        {
+            "item": "淺綠色染料",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72106,
+            "id": "minecraft:lime_dye"
+        },
+        {
+            "item": "黃色染料",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72107,
+            "id": "minecraft:yellow_dye"
+        },
+        {
+            "item": "橙色染料",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72108,
+            "id": "minecraft:orange_dye"
+        },
+        {
+            "item": "紅色染料",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72109,
+            "id": "minecraft:red_dye"
+        },
+        {
+            "item": "棕色染料",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72110,
+            "id": "minecraft:brown_dye"
+        },
+        {
+            "item": "黑色染料",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72111,
+            "id": "minecraft:black_dye"
+        },
+        {
+            "item": "灰色染料",
+            "x": -71769,
+            "genre": "colored",
+            "z": -72112,
+            "id": "minecraft:gray_dye"
+        },
+        {
+            "item": "夜魅皮膜",
+            "x": -71756,
+            "genre": "ingredients",
+            "z": -72204,
+            "id": "minecraft:phantom_membrane"
+        },
+        {
+            "item": "幽靈之淚",
+            "x": -71756,
+            "genre": "ingredients",
+            "z": -72203,
+            "id": "minecraft:ghast_tear"
+        },
+        {
+            "item": "岩漿球",
+            "x": -71756,
+            "genre": "ingredients",
+            "z": -72202,
+            "id": "minecraft:magma_cream"
+        },
+        {
+            "item": "河豚",
+            "genre": "ingredients",
+            "x": -71756,
+            "z": -72201,
+            "id": "minecraft:pufferfish"
+        },
+        {
+            "item": "蜘蛛眼",
+            "genre": "ingredients",
+            "x": -71756,
+            "z": -72200,
+            "id": "minecraft:spider_eye"
+        },
+        {
+            "item": "鑲金西瓜片",
+            "x": -71756,
+            "genre": "ingredients",
+            "z": -72199,
+            "id": "minecraft:glistering_melon_slice"
+        },
+        {
+            "item": "兔子腳",
+            "x": -71756,
+            "genre": "ingredients",
+            "z": -72198,
+            "id": "minecraft:rabbit_foot"
+        },
+        {
+            "item": "糖",
+            "x": -71756,
+            "genre": "ingredients",
+            "z": -72197,
+            "id": "minecraft:sugar"
+        },
+        {
+            "item": "烈焰粉",
+            "x": -71756,
+            "genre": "ingredients",
+            "z": -72196,
+            "id": "minecraft:blaze_powder"
+        },
+        {
+            "item": "發酵蜘蛛眼",
+            "x": -71756,
+            "genre": "ingredients",
+            "z": -72195,
+            "id": "minecraft:fermented_spider_eye"
+        },
+        {
+            "item": "龍之吐息",
+            "x": -71756,
+            "genre": "ingredients",
+            "z": -72194,
+            "id": "minecraft:dragon_breath"
+        },
+        {
+            "item": "火藥",
+            "x": -71756,
+            "genre": "ingredients",
+            "z": -72193,
+            "id": "minecraft:gunpowder"
+        },
+        {
+            "item": "螢石粉",
+            "x": -71756,
+            "genre": "ingredients",
+            "z": -72192,
+            "id": "minecraft:glowstone_dust"
+        },
+        {
+            "item": "地獄疙瘩",
+            "x": -71756,
+            "genre": "ingredients",
+            "z": -72191,
+            "id": "minecraft:nether_wart"
+        },
+        {
+            "item": "玻璃瓶",
+            "x": -71756,
+            "genre": "ingredients",
+            "z": -72190,
+            "id": "minecraft:glass_bottle"
+        },
+        {
+            "item": "火藥球",
+            "x": -71756,
+            "genre": "ingredients",
+            "z": -72189,
+            "id": "minecraft:firework_star"
+        },
+        {
+            "item": "書",
+            "x": -71756,
+            "genre": "ingredients",
+            "z": -72188,
+            "id": "minecraft:book"
+        },
+        {
+            "item": "紙",
+            "x": -71756,
+            "genre": "ingredients",
+            "z": -72187,
+            "id": "minecraft:paper"
+        },
+        {
+            "item": "地獄磚頭",
+            "x": -71756,
+            "genre": "ingredients",
+            "z": -72186,
+            "id": "minecraft:nether_brick"
+        },
+        {
+            "item": "紅磚頭",
+            "x": -71756,
+            "genre": "ingredients",
+            "z": -72185,
+            "id": "minecraft:brick"
+        },
+        {
+            "item": "碗",
+            "x": -71756,
+            "genre": "ingredients",
+            "z": -72184,
+            "id": "minecraft:bowl"
+        },
+        {
+            "item": "唱片碎片",
+            "x": -71756,
+            "genre": "ingredients",
+            "z": -72183,
+            "id": "minecraft:disc_fragment_5"
+        },
+        {
+            "item": "回聲碎片",
+            "x": -71756,
+            "genre": "ingredients",
+            "z": -72182,
+            "id": "minecraft:echo_shard"
+        },
+        {
+            "item": "爆開的歌萊果",
+            "x": -71756,
+            "genre": "ingredients",
+            "z": -72181,
+            "id": "minecraft:popped_chorus_fruit"
+        },
+        {
+            "item": "界伏殼",
+            "x": -71756,
+            "genre": "ingredients",
+            "z": -72180,
+            "id": "minecraft:shulker_shell"
+        },
+        {
+            "item": "終界之眼",
+            "x": -71756,
+            "genre": "ingredients",
+            "z": -72179,
+            "id": "minecraft:ender_eye"
+        },
+        {
+            "item": "終界珍珠",
+            "x": -71756,
+            "genre": "ingredients",
+            "z": -72178,
+            "id": "minecraft:ender_pearl"
+        },
+        {
+            "item": "地獄之星",
+            "x": -71756,
+            "genre": "ingredients",
+            "z": -72177,
+            "id": "minecraft:nether_star"
+        },
+        {
+            "item": "烈焰桿",
+            "genre": "ingredients",
+            "x": -71756,
+            "z": -72176,
+            "id": "minecraft:blaze_rod"
+        },
+        {
+            "item": "火焰彈",
+            "genre": "ingredients",
+            "x": -71756,
+            "z": -72175,
+            "id": "minecraft:fire_charge"
+        },
+        {
+            "item": "海洋之心",
+            "genre": "ingredients",
+            "x": -71756,
+            "z": -72174,
+            "id": "minecraft:heart_of_the_sea"
+        },
+        {
+            "item": "鸚鵡螺殼",
+            "genre": "ingredients",
+            "x": -71756,
+            "z": -72173,
+            "id": "minecraft:nautilus_shell"
+        },
+        {
+            "item": "海磷晶體",
+            "genre": "ingredients",
+            "x": -71756,
+            "z": -72172,
+            "id": "minecraft:prismarine_crystals"
+        },
+        {
+            "item": "海鱗碎片",
+            "genre": "ingredients",
+            "x": -71756,
+            "z": -72171,
+            "id": "minecraft:prismarine_shard"
+        },
+        {
+            "item": "黏土球",
+            "genre": "ingredients",
+            "x": -71756,
+            "z": -72170,
+            "id": "minecraft:clay_ball"
+        },
+        {
+            "item": "史萊姆球",
+            "genre": "ingredients",
+            "x": -71756,
+            "z": -72169,
+            "id": "minecraft:slime_ball"
+        },
+        {
+            "item": "海龜鱗甲",
+            "genre": "ingredients",
+            "x": -71756,
+            "z": -72168,
+            "id": "minecraft:turtle_scute"
+        },
+        {
+            "item": "螢光墨囊",
+            "genre": "ingredients",
+            "x": -71756,
+            "z": -72167,
+            "id": "minecraft:glow_ink_sac"
+        },
+        {
+            "item": "墨囊",
+            "genre": "ingredients",
+            "x": -71756,
+            "z": -72166,
+            "id": "minecraft:ink_sac"
+        },
+        {
+            "item": "蜂巢",
+            "genre": "ingredients",
+            "x": -71756,
+            "z": -72165,
+            "id": "minecraft:honeycomb"
+        },
+        {
+            "item": "皮革",
+            "genre": "ingredients",
+            "x": -71756,
+            "z": -72164,
+            "id": "minecraft:leather"
+        },
+        {
+            "item": "兔子皮",
+            "genre": "ingredients",
+            "x": -71756,
+            "z": -72163,
+            "id": "minecraft:rabbit_hide"
+        },
+        {
+            "item": "雞蛋",
+            "genre": "ingredients",
+            "x": -71756,
+            "z": -72162,
+            "id": "minecraft:egg"
+        },
+        {
+            "item": "雪球",
+            "genre": "ingredients",
+            "x": -71756,
+            "z": -72161,
+            "id": "minecraft:snowball"
+        },
+        {
+            "item": "羽毛",
+            "x": -71756,
+            "genre": "ingredients",
+            "z": -72160,
+            "id": "minecraft:feather"
+        },
+        {
+            "item": "線",
+            "x": -71756,
+            "genre": "ingredients",
+            "z": -72159,
+            "id": "minecraft:string"
+        },
+        {
+            "item": "骨粉",
+            "x": -71756,
+            "genre": "ingredients",
+            "z": -72158,
+            "id": "minecraft:bone_meal"
+        },
+        {
+            "item": "骨頭",
+            "x": -71756,
+            "genre": "ingredients",
+            "z": -72157,
+            "id": "minecraft:bone"
+        },
+        {
+            "item": "燧石",
+            "x": -71756,
+            "genre": "ingredients",
+            "z": -72156,
+            "id": "minecraft:flint"
+        },
+        {
+            "item": "木棒",
+            "x": -71756,
+            "genre": "ingredients",
+            "z": -72155,
+            "id": "minecraft:stick"
+        }
+    ]
+}
