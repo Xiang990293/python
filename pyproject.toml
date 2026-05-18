@@ -8,4 +8,23 @@ dependencies = [
     "discord-webhook>=1.4.1",
     "dotenv>=0.9.9",
     "matplotlib>=3.10.3",
+    "numpy>=2.3.2",
+    "pandas>=2.3.3",
+    "scikit-learn>=1.8.0",
+    "seaborn>=0.13.2",
+    "tensorflow>=2.21.0",
+    "yfinance>=1.2.1",
 ]
+
+[tool.uv.workspace]
+members = [
+    "minecraft_server",
+]
+
+[[tool.uv.index]]
+name = "pytorch-cu130"
+url = "https://download.pytorch.org/whl/cu130"
+explicit = true
+
+[tool.uv.sources]
+torch = [{ index = "pytorch-cu130", marker = "sys_platform == 'linux'" }]
