@@ -5,9 +5,9 @@ counter = 0
 prev = nlist[0]
 remain = nlist[1:]
 for i in range(len(remain)):
-    while prev > remain[i]:
-        remain[i] += 1
-        counter += 1
-    prev = remain[i]
+    if prev > remain[i]:
+        counter += prev - remain[i]
+    else:
+        prev = remain[i]
     
 print(counter)
