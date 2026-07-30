@@ -20,4 +20,4 @@ else:
     con = str(con)
     con = con.replace(")","").replace("(","").replace(", "," ").replace("]","").replace("[","")
         
-print(con)
+    print(con)
