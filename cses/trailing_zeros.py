@@ -1,5 +1,12 @@
-import math
-
 n = int(input())
 
-print(n//5)
+if n < 5:
+    print(0)
+
+i = 5
+result = 0
+while i <= n:
+    result += n//i
+    i *= 5
+    
+print(result)
