@@ -16,8 +16,10 @@ def solver(source: str):
     if len(cand) > 1:
         return "NO SOLUTION"
     
-    result += cand[0]
+    if cand:
+        result += cand[0]
+        return result + result[:-1][::-1]
     
-    return result + result[:-1][::-1]
+    return result + result[::-1]
     
 print(solver(input()))
