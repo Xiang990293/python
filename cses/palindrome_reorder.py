@@ -1,39 +1,23 @@
-source = input()
+import math
 
-static = {}
-middle = 0
-mid_c = ""
-while source != "":
-    ch = source[0]
+def insert(raw: str, index: int, char: str):
+    return raw[:index] + char + raw[index:]
+
+def solver(source: str):
+    result = ""
+    cand = []
     for c in source:
-        if c == ch:
-            if ch not in static.keys():
-                static[ch] = 1
-            else:
-                static[ch] += 1
-            
-    if static[ch] % 2 == 1:
-        middle += 1
-        mid_c = ch
-        
-    if middle > 1:
-        break
-            
-    source = source.replace(ch, "")
-
-result = ""
-   
-if middle > 1:
-    print("NO SOLUTION")
-elif middle == 1:
-    result = mid_c
-
-for k in static.keys():
-    if k == mid_c:
-        continue
+        if c not in cand :
+            cand += c
+        elif c in cand:
+            cand.remove(c)
+            result += c
     
-    while static[k] > 0:
-        result = f"{k}{result}{k}"
-        static[k] -= 2
-        
-print(result)
+    if len(cand) > 1:
+        return "NO SOLUTION"
+    
+    result += cand[0]
+    
+    return result + result[:-1][::-1]
+    
+print(solver(input()))
