@@ -28,27 +28,26 @@ def sort(l, leng):
     
 def l2s(l: list)-> str:
     if len(l) == 1:
-        return l
-    head = l[0]
+        return l[0]
     
-    res = []
-    for i in perm(l[1:]):
-        res.append(head + i)
-    
-    return res
+    return l[0] + l2s(l[1:])
     
 def perm(l: list):
-    """
-        wrong
-    """
-    
     if len(l) == 1:
-        return l
-    head = l[0]
+        return l[0]
     
+    prev = ""
     res = []
-    for i in perm(l[1:]):
-        res.append(head + i)
+    for j in l:
+        if prev == j:
+            continue
+        
+        pos = l2s(l).find(j)
+        rem = l.copy()
+        rem.remove(j)
+        prev = j
+        for i in perm(rem):
+            res.append(j + i)
     
     return res
 
@@ -56,4 +55,7 @@ s = input()
 rs = set([])
 s = list(s)
 s = sort(s, len(s))
-print(perm(s))
+res = perm(s)
+print(len(res))
+for i in perm(s):
+    print(i)
