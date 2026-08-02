@@ -1,69 +1,35 @@
+import numpy
+
 n = int(input())
 a = list(map(int, input().split(" ")))
-b = []
-prevres, res = None, None
 
-def nearest(l, f):
-    leng = len(l)
-    
-    if leng == 1:
-        return 0, l[0]
-        
-    mid = leng//2
-    
-    
-    
-    if f == l[mid]:
-        return mid, f
-    
-    if f > l[mid]:
-        delta, val = nearest(l[mid:], f)
-        return mid + delta, val
-    if f < l[mid]:
-        delta, val =  nearest(l[:mid], f)
-        return delta, val
+total = sum(a)
+minimum = None
 
-while True:
-    sa = sum(a)
-    if b == []:
-        sb = 0
-    else:
-        sb = sum(b)
-    if sa < sb:
-        a, b = b, a
-        sa, sb = sb, sa
-        
-    a.sort()
-    b.sort()
+"""
+This is the brute force method, 
+the old one with wrong answer got removed, 
+check the old file preview instead if needed.
+"""
+
+def find_masum(b: int):
+    vec = list(map(int,tuple(bin(b).replace("0b","").zfill(n))))
+    return numpy.dot(numpy.array(vec), numpy.array(a))
     
-    dsab = (sa - sb)
-    fhdsab = dsab / 2
-    hdsab = dsab//2
-    if sa == sb:
-        res = 0
+
+for i in range(2**n):
+    sa = find_masum(i)
+    sb = total - sa
+    
+    res = abs(sa - sb)
+    if minimum is None:
+        minimum = res
+    elif minimum > res:
+        minimum = res
+     
+    if minimum == 0:
         break
     
-    
-    prevres = res
-    sind, _ = nearest(a, fhdsab)
-    for i in a[:sind+1][::-1]:
-        if fhdsab - i < 0:
-            break
-        res = fhdsab - i
-        if i in a and prevres is None:
-            b.append(i)
-            a.remove(i)
-            break
-            
-        elif i in a and prevres > res:
-            b.append(i)
-            a.remove(i)
-            break
-        
-    
-    if prevres == res and res is not None:
-        break
-    
-    
-print(sa - sb)
 
+
+print(minimum)
