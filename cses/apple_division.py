@@ -1,4 +1,8 @@
-import numpy
+"""
+This is the brute force method, 
+the old one with wrong answer got removed, 
+check the old file preview instead if needed.
+"""
 
 n = int(input())
 a = list(map(int, input().split(" ")))
@@ -6,16 +10,10 @@ a = list(map(int, input().split(" ")))
 total = sum(a)
 minimum = None
 
-"""
-This is the brute force method, 
-the old one with wrong answer got removed, 
-check the old file preview instead if needed.
-"""
-
 def find_masum(b: int):
     vec = list(map(int,tuple(bin(b).replace("0b","").zfill(n))))
-    return numpy.dot(numpy.array(vec), numpy.array(a))
     
+    return sum([vec[i] * a[i] for i in range(n)])
 
 for i in range(2**n):
     sa = find_masum(i)
