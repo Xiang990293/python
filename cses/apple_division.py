@@ -47,9 +47,9 @@ while True:
     prevres = res
     sind, _ = nearest(a, fhdsab)
     for i in a[:sind+1][::-1]:
-        res = fhdsab - i
-        if res < 0:
+        if fhdsab - i < 0:
             break
+        res = fhdsab - i
         if i in a and prevres is None:
             b.append(i)
             a.remove(i)
@@ -60,10 +60,10 @@ while True:
             a.remove(i)
             break
         
-    print(a, b, res, prevres)
+    
     if prevres == res and res is not None:
         break
     
     
-print(a, b, res, prevres, sa - sb)
+print(sa - sb)
 
