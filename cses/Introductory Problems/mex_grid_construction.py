@@ -23,7 +23,9 @@ def solver(n):
     for i in range(1, n - 1):
         all = set(range(2*n + 1))
 
-        exs = set(list(map(lambda x: x[i], res[:i]))).union(set(res[i]))
+        above = set(list(map(lambda x: x[-1], res[:i])))
+        left = set(res[i])
+        exs = above.union(left)
         num = min(all.difference(exs))
         res[i].append(num)
         temp.append(num)
