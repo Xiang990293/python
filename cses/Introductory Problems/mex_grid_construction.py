@@ -8,15 +8,6 @@ def solver(n):
 
     start = res[0][-1] + 1
     temp = []
-    if n % 2 == 1:
-        for i in range(n - 1):
-            res[i].append(start + i)
-            temp.append(start + i)
-
-        temp.append(0)
-        res.append(temp)
-
-        return res
 
     res[0].append(start)
     temp.append(start)
