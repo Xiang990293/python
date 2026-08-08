@@ -3,10 +3,17 @@ n = int(input())
 board = [[-1 for j in range(n)] for i in range(n)]
 steped = [[False for j in range(n)] for i in range(n)]
 
-def wfs(curl):
+def bfs(curl):
     waitq = []
-    rr, cr, level = curl
-    for i in [(2, 1), (1, 2), (-1, 2), (-2, 1), (-2, -1), (-1, -2), (1, -2), (2, -1)]:
+    rr, cr, level, prev = curl
+
+    dirs = [(2, 1), (1, 2), (-1, 2), (-2, 1), (-2, -1), (-1, -2), (1, -2), (2, -1)]
+
+    if prev != (0, 0):
+        r, c = prev
+        dirs.remove((-r, -c))
+
+    for i in dirs:
         d, e = i
         r, c = rr+d, cr+e
         
@@ -21,7 +28,7 @@ def wfs(curl):
         
         if steped[r][c]:
             continue
-        waitq.append((r, c, level + 1))
+        waitq.append((r, c, level + 1, i))
         board[r][c] = level + 1
         steped[r][c] = True
     
@@ -29,15 +36,15 @@ def wfs(curl):
 
 def solver():
     level = 1
-    waitq = [(0, 0, 0)]
+    waitq = [(0, 0, 0, (0, 0))]
     board[0][0] = 0
     steped[0][0] = True
 
     while waitq:
         curl = waitq.pop(0)
-        r, c, level = curl
+        r, c, level, prev = curl
         
-        waitq.extend(wfs(curl))
+        waitq.extend(bfs(curl))
 
     return
 
