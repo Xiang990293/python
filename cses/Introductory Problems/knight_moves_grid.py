@@ -1,38 +1,47 @@
 n = int(input())
 
 board = [[-1 for j in range(n)] for i in range(n)]
+steped = [[False for j in range(n)] for i in range(n)]
 
-def solver(i, j, level):
-    if i > n - 1:
-        return
-    if j > n - 1:
-        return
-    if i < 0:
-        return
-    if j < 0:
-        return
+def wfs(curl):
+    waitq = []
+    rr, cr, level = curl
+    for i in [(2, 1), (1, 2), (-1, 2), (-2, 1), (-2, -1), (-1, -2), (1, -2), (2, -1)]:
+        d, e = i
+        r, c = rr+d, cr+e
+        
+        if r > n - 1:
+            continue
+        if c > n - 1:
+            continue
+        if r < 0:
+            continue
+        if c < 0:
+            continue
+        
+        if steped[r][c]:
+            continue
+        waitq.append((r, c, level + 1))
+        board[r][c] = level + 1
+        steped[r][c] = True
     
-    if level > 3 / 2 * n:
-        return
-    
-    if board[i][j] != -1 and level > board[i][j]:
-        return
+    return waitq
 
-    if board[i][j] == -1 or board[i][j] > level:
-        board[i][j] = level
+def solver():
+    level = 1
+    waitq = [(0, 0, 0)]
+    board[0][0] = 0
+    steped[0][0] = True
 
-    solver(i + 2, j + 1, level + 1)
-    solver(i + 1, j + 2, level + 1)
-    solver(i - 1, j + 2, level + 1)
-    solver(i - 2, j + 1, level + 1)
-    solver(i + 1, j - 2, level + 1)
-    solver(i + 2, j - 1, level + 1)
-    solver(i - 2, j - 1, level + 1)
-    solver(i - 1, j - 2, level + 1)
+    while waitq:
+        curl = waitq.pop(0)
+        r, c, level = curl
+        
+        waitq.extend(wfs(curl))
 
     return
 
-solver(0, 0, 0)
+solver()
 
 for i in board:
     print(str(i).replace("[", "").replace("]", "").replace(",", ""))
