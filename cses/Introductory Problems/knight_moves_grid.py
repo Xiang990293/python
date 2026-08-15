@@ -2,34 +2,39 @@ n = int(input())
 
 board = [[-1 for j in range(n)] for i in range(n)]
 steped = [[False for j in range(n)] for i in range(n)]
+dirs_n = [(2, 1), (1, 2), (-1, 2), (-2, 1), (-2, -1), (-1, -2), (0, 1), (-1, 0)]
+dirs_f = [(2, 1), (1, 2), (-1, 2), (-2, 1), (-2, -1), (-1, -2), (0, -1), (1, 0)]
+dirs_o = [(2, 1), (1, 2), (-1, 2), (-2, 1), (-2, -1), (-1, -2), (1, -2), (2, -1)]
+dirs_d = [(1, 2), (-1, 2), (-2, 1), (-2, -1)]
 
 def bfs(curl):
     waitq = []
     rr, cr, level, prev = curl
 
-    dirs = [(2, 1), (1, 2), (-1, 2), (-2, 1), (-2, -1), (-1, -2), (1, -2), (2, -1)]
+    if cr < rr:
+        return waitq
 
-    if prev != (0, 0):
-        r, c = prev
-        dirs.remove((-r, -c))
+    dirs = []
+
+    dirs = dirs_d if cr == rr else (dirs_n if cr - rr == 1 else (dirs_f if cr - rr == 2 else dirs_o))
+
+    # if prev != (0, 0):
+    #     r, c = prev
+    #     if (-r, -c) in dirs:
+    #         dirs.remove((-r, -c))
 
     for i in dirs:
         d, e = i
         r, c = rr+d, cr+e
         
-        if r > n - 1:
-            continue
-        if c > n - 1:
-            continue
-        if r < 0:
-            continue
-        if c < 0:
+        if r > n - 1 or c > n - 1 or r < 0 or c < 0 or r > c:
             continue
         
         if steped[r][c]:
             continue
         waitq.append((r, c, level + 1, i))
         board[r][c] = level + 1
+        board[c][r] = level + 1
         steped[r][c] = True
     
     return waitq
@@ -45,6 +50,9 @@ def solver():
         r, c, level, prev = curl
         
         waitq.extend(bfs(curl))
+        # print(level)
+        # for i in board:
+        #     print(str(i).replace("[", "").replace("]", "").replace(",", ""))
 
     return
 
