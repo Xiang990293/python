@@ -1,4 +1,5 @@
 from collections import deque
+import sys
 
 dirs_n = [(2, 1), (1, 2), (-1, 2), (-2, 1), (-2, -1), (-1, -2), (0, 1), (-1, 0)]
 dirs_f = [(2, 1), (1, 2), (-1, 2), (-2, 1), (-2, -1), (-1, -2), (0, -1), (1, 0)]
@@ -38,5 +39,7 @@ n = int(input())
 board = [[-1] * n for i in range(n)]
 board[0][0] = 0
 solver()
-for i in board:
-    print(" ".join(map(str, i)))
+output = []
+for row in board:
+    output.append(" ".join(map(str, row)))
+sys.stdout.write("\n".join(output) + "\n")
