@@ -5,6 +5,7 @@ dirs_n = [(2, 1), (1, 2), (-1, 2), (-2, 1), (-2, -1), (-1, -2), (0, 1), (-1, 0)]
 dirs_f = [(2, 1), (1, 2), (-1, 2), (-2, 1), (-2, -1), (-1, -2), (0, -1), (1, 0)]
 dirs_o = [(2, 1), (1, 2), (-1, 2), (-2, 1), (-2, -1), (-1, -2), (1, -2), (2, -1)]
 dirs_d = [(1, 2), (-1, 2), (-2, 1), (-2, -1)]
+dirs = [dirs_d, dirs_n, dirs_f, dirs_o]
 
 def solver():
     waitq = deque([(0, 0)])
@@ -15,11 +16,12 @@ def solver():
         if cr < rr:
             continue
 
-        dirs = []
-        
-        dirs = dirs_d if cr == rr else (dirs_n if cr - rr == 1 else (dirs_f if cr - rr == 2 else dirs_o))
-    
-        for i in dirs:
+
+        opt = cr - rr
+        if opt > 2:
+            opt = 3
+            
+        for i in dirs[opt]:
             d, e = i
             r, c = rr+d, cr+e
             
