@@ -26,7 +26,7 @@ def bfs(curl, level):
 
     dirs = []
 
-    dirs = dirs_d.copy() if cr == rr else (dirs_n.copy() if cr - rr == 1 else (dirs_f.copy() if cr - rr == 2 else dirs_o.copy()))
+    dirs = dirs_d if cr == rr else (dirs_n if cr - rr == 1 else (dirs_f if cr - rr == 2 else dirs_o))
 
     for i in dirs:
         d, e = i
