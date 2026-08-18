@@ -5,7 +5,7 @@ import sys
 After several discussion with Gemini,
 We know that this question might hard for slowy python(CPython)
 So, the solution is on with C++ here:
-
+https://github.com/Xiang990293/C-/blob/main/cses/Introductory%20Problems/knight_moves_grid.cpp
 """
 
 def solver():
