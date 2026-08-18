@@ -1,6 +1,13 @@
 from collections import deque
 import sys
 
+"""
+After several discussion with Gemini,
+We know that this question might hard for slowy python(CPython)
+So, the solution is on with C++ here:
+
+"""
+
 def solver():
     input_data = sys.stdin.read().split()
     if not input_data:
